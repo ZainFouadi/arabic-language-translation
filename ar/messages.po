@@ -2929,7 +2929,7 @@ msgstr "الفاتح"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:69
 msgid "Consider giving it to your local moderator"
-msgstr "فكر في إعطائها للمشرف"
+msgstr "فكر في إعطائها لادمن"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:554
 msgid "Construct"
@@ -3700,7 +3700,7 @@ msgstr "مراوغة <0/> من الهجمات"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:55
 msgid "Don't forget to drink water"
-msgstr "لا تنس شرب الماء"
+msgstr "لا تنسى ان تشرب الماء"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:124
 msgid "Don't forget to save your skill upgrades."
@@ -3708,7 +3708,7 @@ msgstr "لا تنس حفظ ترقيات مهاراتك."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:13
 msgid "Don't quit now, your luck is buffering"
-msgstr "لا تستسلم الآن، حظك قيد التحميل"
+msgstr "لا تستسلم الآن، حظك في بدايته"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:534
 msgid "Donate"
@@ -4256,7 +4256,7 @@ msgstr "تصفية حسب نوع المعاملة"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:35
 msgid "Finally above average!"
-msgstr "أخيراً فوق المتوسط!"
+msgstr "أخيراً فوق المتوسط بقليل"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:129
 msgid "Finance a resistance battle in <0/>"
@@ -4394,7 +4394,7 @@ msgstr "بأقصى سرعة، بلا مكابح"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:27
 msgid "Fun fact: The house always wins"
-msgstr "حقيقة طريفة: صاحب الكازينو يفوز دائمًا"
+msgstr "حقيقة: صاحب الكازينو يفوز دائمًا"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:275
 msgid "Fur Boots"
@@ -4467,7 +4467,7 @@ msgstr "توجه إلى الجبهة!"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:94
 msgid "Gift from Vatou, don't tell anyone"
-msgstr "هدية من Vatou، لا تخبر أحداً"
+msgstr "هدية من فاتو، لا تخبر أحداً"
 
 #: src/components/_other/shop/SkinPackModal.tsx:97
 msgid "Gift sent! Skin pack unlocked for recipient!"
@@ -4529,7 +4529,7 @@ msgstr "توهّج"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:95
 msgid "Go play lottery right now"
-msgstr "اذهب للعب اليانصيب الآن"
+msgstr "اذهب والعب اليانصيب الآن"
 
 #: src/components/_economy/company/CompanyProduce.tsx:117
 msgid "Go to job market"
@@ -4804,11 +4804,11 @@ msgstr "الجوع"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:29
 msgid "I can feel it, the next one is a mythic!"
-msgstr "يمكنني الشعور بذلك، القادم سيكون أسطورياً!"
+msgstr "يمكنني الشعور بذلك، القادم سيكون اسطوري!"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:28
 msgid "I heard buying premium boost your chances :3"
-msgstr "سمعت أن شراء خطة الداعم يعزز من فرصك :3"
+msgstr "سمعت أن شراء خطة البريموم يعزز من فرصك :3"
 
 #: src/components/_common/GameRules.tsx:293
 msgid "i. Promotion of other games, products, or services"
@@ -4836,7 +4836,7 @@ msgstr "تخيل لو توقفت قبل الأسطوري مباشرة"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:7
 msgid "Imagine wasting your click on this"
-msgstr "تخيل تضييع نقرتك على هذا"
+msgstr "تخيل تضييع ضغطتك على هذا"
 
 #: src/components/_political/law/law.frontConfig.tsx:190
 msgid "Impeach <0/>"
@@ -4994,7 +4994,7 @@ msgstr "انعزالي: يبدأ هذا العدو اللدود عند زياد�
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:9
 msgid "It only gets better… maybe"
-msgstr "الأمور تتحسن فقط... ربما"
+msgstr "الأمور تتحسن فقط... ربما... ممكن"
 
 #: src/components/_economy/company/CompanyTags.tsx:72
 msgid "It will not gain any production and its workers will not be able to work."
@@ -5095,7 +5095,7 @@ msgstr "الانضمام إلى وظيفة جديدة سيجعلك تترك وظ
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:22
 msgid "Just 1 more..."
-msgstr "فقط مرة أخرى..."
+msgstr "فقط محاولة.. أخرى..."
 
 #: src/components/_common/GameRules.tsx:318
 msgid "Just because something isn't explicitly stated in the rules does not mean you can abuse it. Attempts to bypass rules or exploit loopholes will still be punished."
@@ -5103,7 +5103,7 @@ msgstr "مجرد أن شيئاً ما لم يتم ذكره صراحة في ال�
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:50
 msgid "Just one more… what could go wrong?"
-msgstr "فقط واحدة أخرى... ماذا يمكن أن يحدث؟"
+msgstr "فقط واحدة أخرى... ماذا اسوء شي يمكن أن يحدث؟"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:63
 msgid "Keep chasing that Mythic"
@@ -5574,7 +5574,7 @@ msgstr "تم تحقيق أعلى رتبة!"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:32
 msgid "Maybe epic music would help?"
-msgstr "ربما تساعد الموسيقى؟"
+msgstr "ربما الموسيقى قد تساعد؟"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:15
 msgid "Maybe next time ^^"
@@ -8856,7 +8856,7 @@ msgstr "جرعة الدوبامين هذه مجانية"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:68
 msgid "That's epic!"
-msgstr "هذا ملحمي!"
+msgstr "مذهل!"
 
 #: src/components/_user/user/skills.frontConfig.tsx:112
 msgid "The <0>Production Points</0> you generate each time you work"
@@ -8980,11 +8980,11 @@ msgstr "لا يمكن لهذا الجهاز عرض الخريطة"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:42
 msgid "This equipment is green and so is grass"
-msgstr "هذه المعدات خضراء وكذلك العشب"
+msgstr "هذه المعدات خضراء والعشب ايضاً"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:62
 msgid "This feels good, huh?"
-msgstr "هذا شعور جيد، هاه؟"
+msgstr "شعور جيد، هاه؟"
 
 #: src/components/_military/battle/LootSummaryCard.tsx:76
 msgid "This is a summary of the loot you received from this battle. It includes any cases you got as well as the most valuable items from the shared loot pool."
@@ -9451,7 +9451,7 @@ msgstr "إلغاء الكتم <0/>"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:93
 msgid "Unreal. This doesn't happen"
-msgstr "خيال. هذا لا يحدث"
+msgstr "خيال. هذا لا يحدث دائما"
 
 #: src/pages/country/[countryId]/index.tsx:217
 msgid "Unrest"
@@ -10074,7 +10074,7 @@ msgstr "الاسوء"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:82
 msgid "Wow congratulations! Anyway have you considered buying premium?"
-msgstr "واو مبروك! على كل حال، هل فكرت في شراء العضوية المميزة؟"
+msgstr "مبروك! عموما، هل فكرت في شراء خطة البريموم؟"
 
 #: src/components/_political/law/LawFormModal.tsx:169
 #: src/components/_political/law/LawList.tsx:52
@@ -10174,7 +10174,7 @@ msgstr "قمت بشراء عناصر."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:77
 msgid "You broke the rng"
-msgstr "لقد حطمت نظام الحظ (RNG)"
+msgstr "لقد حطمت نظام الحظ"
 
 #. placeholder {0}: staticGameConfig.referral.levelNeededForBadge
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:178
@@ -10450,7 +10450,7 @@ msgstr "لقد تم تعيينك نائباً لرئيس دولتك"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:21
 msgid "You were so close"
-msgstr "كنت قريباً جداً"
+msgstr "كنت قريب جداً"
 
 #: src/pages/user/[userId]/skills.tsx:120
 msgid "You will drop to level 25 (losing 65,000 XP), gain a permanent +50% XP bonus (+10% per additional prestige level) and a prestige point, and your skills will be reset for free."
@@ -10487,11 +10487,11 @@ msgstr "أنت داعم بالفعل <0/>"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:38
 msgid "You're climbing, don't stop now"
-msgstr "أنت تصعد، لا تتوقف الآن"
+msgstr "أنت تتقدم، لا تتوقف الآن"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:85
 msgid "You're going to be a legend for, like, 100 hits!"
-msgstr "ستصبح أسطورة لمدة، مثلاً، 100 ضربة!"
+msgstr "ستصبح اسطورة المعركة لمدة 100 ضربة تقريبا!"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:49
 msgid "You're literally one case away from greatness"
@@ -10519,11 +10519,11 @@ msgstr "شريط <0>الإنتاج</0> الخاص بك ممتلئ! انقر لإ
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:96
 msgid "Your account has been automatically reported for cheating"
-msgstr "تم الإبلاغ عن حسابك تلقائياً بسبب الغش"
+msgstr "تم الإبلاغ عن حسابك بسبب الغش, انتبه على نفسك"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:74
 msgid "Your ancestors are proud"
-msgstr "أسلافك فخورون بك"
+msgstr "اجدادك فخورون بك"
 
 #: src/components/_social/announcement/AnnouncementFormModal.tsx:29
 msgid "Your announcement to the country..."
@@ -10643,11 +10643,11 @@ msgstr "غنائمك"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:48
 msgid "Your luck is just warming up, don't quit"
-msgstr "حظك في مرحلة الإحماء، لا تنسحب"
+msgstr "حظك في مرحلة البداية، لا تنسحب مبكراً"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:24
 msgid "Your luck is on vacation"
-msgstr "حظك في إجازة"
+msgstr "حظك في إجازة صيفية"
 
 #: src/components/_military/mu/MuFormModal.tsx:106
 msgid "Your military unit name"
