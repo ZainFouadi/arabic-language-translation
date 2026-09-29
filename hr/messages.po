@@ -5984,7 +5984,7 @@ msgstr "Prebačen u novu kompaniјu"
 #: src/components/_military/tournament/TournamentHeader.tsx:55
 #: src/components/_military/tournament/TournamentItem.tsx:54
 msgid "MU"
-msgstr "VЈ"
+msgstr "VJ"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2108
 msgid "MU Application Accepted"
