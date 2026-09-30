@@ -228,7 +228,7 @@ msgstr ""
 msgid "* A gear merging scheme consists of buying items with very low durability at a relatively high price, merging them, and then reselling the result at a low price."
 msgstr "* Un esquema de fusión de equipo consiste en comprar objetos con muy baja durabilidad a un precio relativamente alto, fusionarlos y luego revender el resultado a un precio bajo."
 
-#: src/components/_other/shop/SkinPackModal.tsx:213
+#: src/components/_other/shop/SkinPackModal.tsx:214
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr "*Si el usuario ya posee algunas piezas del set, el precio se reducirá"
 
@@ -1540,7 +1540,7 @@ msgstr "Todos los partidos"
 msgid "All rounds"
 msgstr "Todas las rondas"
 
-#: src/components/_other/shop/SkinPackModal.tsx:269
+#: src/components/_other/shop/SkinPackModal.tsx:270
 msgid "All skins owned"
 msgstr "Tus skins"
 
@@ -2100,6 +2100,10 @@ msgstr "Casco Básico"
 #: src/utils/translations.tsx:226
 msgid "Basic Pants"
 msgstr "Pantalones Básicos"
+
+#: src/components/_other/shop/skin.frontConfig.tsx:473
+msgid "Bat Swarm"
+msgstr ""
 
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:85
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:185
@@ -3751,6 +3755,10 @@ msgstr ""
 msgid "Dragon"
 msgstr "Dragon"
 
+#: src/components/_other/shop/skinPack.frontConfig.tsx:61
+msgid "Dressed to kill"
+msgstr ""
+
 #: src/components/_common/GameRules.tsx:262
 msgid "e. Content about ongoing real-world wars and armed conflicts (most notably the Russo-Ukrainian war and the Israeli–Palestinian conflict)"
 msgstr "e. Contenido sobre guerras y conflictos armados reales en curso (especialmente la guerra ruso-ucraniana y el conflicto israelí-palestino)"
@@ -4481,7 +4489,7 @@ msgstr "¡Regalo enviado! Gracias por apoyar el juego <3"
 msgid "Gift Supporter Plan"
 msgstr "Regalar plan Supporter"
 
-#: src/components/_other/shop/SkinPackModal.tsx:224
+#: src/components/_other/shop/SkinPackModal.tsx:225
 msgid "Gift this pack to someone"
 msgstr "Regala este pack a alguien"
 
@@ -4724,6 +4732,62 @@ msgstr "Tanque Hamster"
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:85
 msgid "Hard Worker"
 msgstr "Gran Trabajador"
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:68
+msgid "Harlequin"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:506
+msgid "Harlequin Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:500
+msgid "Harlequin Biplane"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:518
+msgid "Harlequin Boots"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:524
+msgid "Harlequin Gloves"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:509
+msgid "Harlequin Heavy Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:515
+msgid "Harlequin Jacket"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:503
+msgid "Harlequin Light Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:485
+msgid "Harlequin Mallet"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:512
+msgid "Harlequin Mask"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:521
+msgid "Harlequin Pants"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:488
+msgid "Harlequin Pistol"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:491
+msgid "Harlequin Rifle"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:494
+msgid "Harlequin Sniper"
+msgstr ""
 
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:94
 msgid "Headquarters"
@@ -5017,6 +5081,10 @@ msgstr "Objetos"
 msgid "j. Spam and repeated messages"
 msgstr "j. Spam y mensajes repetidos"
 
+#: src/components/_other/shop/skin.frontConfig.tsx:497
+msgid "Jack-in-the-Box Tank"
+msgstr ""
+
 #: src/pages/companies.tsx:32
 #: src/pages/user/[userId]/companies.tsx:56
 msgid "Job"
@@ -5296,8 +5364,8 @@ msgstr ""
 msgid "Level {level}"
 msgstr "Nivel {level}"
 
-#: src/components/_political/election/Election.tsx:132
-#: src/components/_political/election/Election.tsx:224
+#: src/components/_political/election/Election.tsx:145
+#: src/components/_political/election/Election.tsx:237
 msgid "Level too low"
 msgstr "Nivel muy bajo"
 
@@ -5702,7 +5770,7 @@ msgstr "Reputación mercenaria"
 msgid "Message"
 msgstr ""
 
-#: src/components/_other/shop/SkinPackModal.tsx:236
+#: src/components/_other/shop/SkinPackModal.tsx:237
 msgid "Message (Optional)"
 msgstr "Enviar mensaje (opcional)"
 
@@ -6125,7 +6193,7 @@ msgstr "¡Nunca te rindas!"
 msgid "Never stop gambling"
 msgstr "Nunca dejes de jugar"
 
-#: src/components/_other/shop/SkinPackItem.tsx:92
+#: src/components/_other/shop/SkinPackItem.tsx:93
 #: src/components/_social/ArticleList.tsx:189
 msgid "New"
 msgstr "Nuevo"
@@ -6780,7 +6848,7 @@ msgstr "Desbordamiento:"
 msgid "Overview"
 msgstr "Resumen"
 
-#: src/components/_other/shop/SkinPackItem.tsx:107
+#: src/components/_other/shop/SkinPackItem.tsx:108
 msgid "Owned"
 msgstr "Propios"
 
@@ -7537,11 +7605,15 @@ msgstr "Motivo"
 msgid "Recent Applications"
 msgstr "Solicitudes Recientes"
 
+#: src/components/_political/election/Election.tsx:247
+msgid "Recent citizenship change"
+msgstr ""
+
 #: src/pages/company/[companyId]/index.tsx:101
 msgid "Recipe"
 msgstr "Receta"
 
-#: src/components/_other/shop/SkinPackModal.tsx:231
+#: src/components/_other/shop/SkinPackModal.tsx:232
 msgid "Recipient"
 msgstr "Destinatario"
 
@@ -8111,7 +8183,7 @@ msgstr "Haz screenshot o nadie te creerá"
 msgid "Search countries..."
 msgstr "Buscar países..."
 
-#: src/components/_other/shop/SkinPackModal.tsx:233
+#: src/components/_other/shop/SkinPackModal.tsx:234
 msgid "Search recipient username..."
 msgstr "Buscar nombre de usuario del destinatario..."
 
@@ -8232,7 +8304,7 @@ msgstr "Envía un mensaje para completar el tutorial. ¡Bienvenido a la comunida
 msgid "Send Code"
 msgstr "Enviar código"
 
-#: src/components/_other/shop/SkinPackModal.tsx:284
+#: src/components/_other/shop/SkinPackModal.tsx:285
 msgid "Send Gift"
 msgstr "Enviar regalo"
 
@@ -8391,6 +8463,10 @@ msgstr "Mostrando semanal"
 msgid "Side"
 msgstr "Lado"
 
+#: src/components/_other/shop/skinPack.frontConfig.tsx:65
+msgid "Silver not included"
+msgstr ""
+
 #: src/components/_military/tournament/TournamentHeader.tsx:103
 #: src/components/_military/tournament/TournamentRegistrationPanel.tsx:77
 msgid "Skill bonus"
@@ -8449,7 +8525,7 @@ msgstr "Recompensa de skin"
 msgid "Skins"
 msgstr "Skins"
 
-#: src/components/_other/shop/SkinPackModal.tsx:249
+#: src/components/_other/shop/SkinPackModal.tsx:250
 msgid "Skins in this pack"
 msgstr "Skins en este pack"
 
@@ -8463,6 +8539,10 @@ msgstr "Omitir tutorial"
 
 #: src/components/_layout/LayoutMapUserMenu.tsx:243
 msgid "Skipped"
+msgstr ""
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:57
+msgid "Sleeps all day, bites all night"
 msgstr ""
 
 #: src/components/_other/shop/skin.frontConfig.tsx:260
@@ -8907,6 +8987,10 @@ msgstr "El efecto de tus buffs consumidos ha terminado. La fase de debuff ha com
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:53
 msgid "The full bonus of <0/> applies up to <1/> share of global <2>Development</2>. Above that, the bonus drops by <3/> per percentage point of share over the plateau, down to <4/>."
 msgstr "La bonificación completa de <0/> se aplica hasta <1/> participación en el <2>Desarrollo</2> global. Por encima de eso, la bonificación se reduce en <3/> por cada punto porcentual de participación sobre la meseta, hasta <4/>."
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:69
+msgid "The joke's on you"
+msgstr ""
 
 #: src/components/_political/map/MapLibreErrorBoundary.tsx:69
 msgid "The map needs WebGL2, which your browser or device doesn't support. Everything else in the game works normally."
@@ -9423,13 +9507,13 @@ msgstr "Desconectada"
 msgid "Unlinked to capital"
 msgstr "Desconectada de la capital"
 
-#: src/components/_other/shop/SkinPackModal.tsx:291
+#: src/components/_other/shop/SkinPackModal.tsx:292
 msgid "Unlock"
 msgstr "Desbloquear"
 
 #. placeholder {0}: estimate.notOwnedCount
 #. placeholder {1}: estimate.notOwnedCount > 1 ? 's' : ''
-#: src/components/_other/shop/SkinPackModal.tsx:286
+#: src/components/_other/shop/SkinPackModal.tsx:287
 msgid "Unlock {0} skin{1}"
 msgstr "Desbloquear {0} skin{1}"
 
@@ -9612,7 +9696,7 @@ msgstr "usuario"
 msgid "User & Progression"
 msgstr "Usuario y progreso"
 
-#: src/components/_other/shop/SkinPackModal.tsx:267
+#: src/components/_other/shop/SkinPackModal.tsx:268
 msgid "User already owns all skins"
 msgstr "El usuario ya tiene todas las skins"
 
@@ -9745,6 +9829,90 @@ msgstr "Tanque de San Valentín"
 #: src/components/_common/GameRules.tsx:143
 msgid "Valuable contributions will be recognized with the \"Bug Finder\" badge."
 msgstr "Las contribuciones valiosas serán reconocidas con la insignia \"Bug Finder\"."
+
+#: src/components/_other/shop/skin.frontConfig.tsx:479
+msgid "Vampire Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:64
+msgid "Vampire Arsenal"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:470
+msgid "Vampire Coffin"
+msgstr ""
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:56
+msgid "Vampire Count"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:434
+msgid "Vampire Count Boots"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:440
+msgid "Vampire Count Gloves"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:428
+msgid "Vampire Count Mask"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:437
+msgid "Vampire Count Pants"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:431
+msgid "Vampire Count Tailcoat"
+msgstr ""
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:60
+msgid "Vampire Countess"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:449
+msgid "Vampire Countess Boots"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:446
+msgid "Vampire Countess Corset"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:452
+msgid "Vampire Countess Garters"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:455
+msgid "Vampire Countess Gloves"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:443
+msgid "Vampire Countess Top Hat"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:464
+msgid "Vampire Crossbow"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:458
+msgid "Vampire Dagger"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:482
+msgid "Vampire Heavy Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:476
+msgid "Vampire Light Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:461
+msgid "Vampire Pistol"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:467
+msgid "Vampire Sniper"
+msgstr ""
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:56
 msgid "Vanguard"
@@ -10201,6 +10369,11 @@ msgstr "Puedes vincular opcionalmente un artículo de campaña a tu candidatura.
 msgid "You can upgrade your skills!"
 msgstr "¡Puedes mejorar tus habilidades!"
 
+#. placeholder {0}: gameConfig?.election.voteMinDaysSinceCitizenshipChange
+#: src/components/_political/election/Election.tsx:249
+msgid "You can vote {0} days after changing citizenship. Available in <0/>."
+msgstr ""
+
 #: src/pages/country/[countryId]/citizenship.tsx:61
 msgid "You cannot apply for citizenship if you have a government/congress role"
 msgstr "No puedes cambiar de ciudadanía si eres miembro del gobierno o del parlamento"
@@ -10311,7 +10484,7 @@ msgid "You left your job!"
 msgstr "¡Dejaste tu trabajo!"
 
 #. placeholder {0}: gameConfig.election.candidateMinLevel
-#: src/components/_political/election/Election.tsx:133
+#: src/components/_political/election/Election.tsx:146
 msgid "You must be at least level {0} to become a candidate."
 msgstr "Debes tener al menos el nivel {0} para convertirte en candidato."
 
@@ -10323,7 +10496,7 @@ msgid "You must be at least level {0} to contribute."
 msgstr "Para contribuir, debes ser al menos de nivel {0}."
 
 #. placeholder {0}: gameConfig.election.voteMinLevel
-#: src/components/_political/election/Election.tsx:226
+#: src/components/_political/election/Election.tsx:239
 msgid "You must be at least level {0} to vote."
 msgstr "Debes tener al menos el nivel {0} para votar."
 

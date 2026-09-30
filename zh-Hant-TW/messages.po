@@ -228,7 +228,7 @@ msgstr "{value} 公里"
 msgid "* A gear merging scheme consists of buying items with very low durability at a relatively high price, merging them, and then reselling the result at a low price."
 msgstr "* 利用裝備合成套利包含購買低耐久度物品於較高價格，合成它們，並重新於較低價格出售。"
 
-#: src/components/_other/shop/SkinPackModal.tsx:213
+#: src/components/_other/shop/SkinPackModal.tsx:214
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr "*如果用戶已經擁有一些造型包中的造型，價格會減少"
 
@@ -1540,7 +1540,7 @@ msgstr "所有政黨"
 msgid "All rounds"
 msgstr "所有回合"
 
-#: src/components/_other/shop/SkinPackModal.tsx:269
+#: src/components/_other/shop/SkinPackModal.tsx:270
 msgid "All skins owned"
 msgstr "所有擁有造型"
 
@@ -2100,6 +2100,10 @@ msgstr "基礎頭盔"
 #: src/utils/translations.tsx:226
 msgid "Basic Pants"
 msgstr "基礎褲子"
+
+#: src/components/_other/shop/skin.frontConfig.tsx:473
+msgid "Bat Swarm"
+msgstr ""
 
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:85
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:185
@@ -3751,6 +3755,10 @@ msgstr "拖曳命令以更改其優先順序。"
 msgid "Dragon"
 msgstr "龍"
 
+#: src/components/_other/shop/skinPack.frontConfig.tsx:61
+msgid "Dressed to kill"
+msgstr ""
+
 #: src/components/_common/GameRules.tsx:262
 msgid "e. Content about ongoing real-world wars and armed conflicts (most notably the Russo-Ukrainian war and the Israeli–Palestinian conflict)"
 msgstr "e. 有關真實世界進行中戰爭及武裝衝突之內容（尤其是俄烏戰爭及以巴衝突）"
@@ -4481,7 +4489,7 @@ msgstr "禮物已送出！謝謝你支持這個遊戲 <3"
 msgid "Gift Supporter Plan"
 msgstr "贈送支持者計畫"
 
-#: src/components/_other/shop/SkinPackModal.tsx:224
+#: src/components/_other/shop/SkinPackModal.tsx:225
 msgid "Gift this pack to someone"
 msgstr "贈送這個組合包給某人"
 
@@ -4724,6 +4732,62 @@ msgstr "倉鼠坦克"
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:85
 msgid "Hard Worker"
 msgstr "認真員工"
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:68
+msgid "Harlequin"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:506
+msgid "Harlequin Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:500
+msgid "Harlequin Biplane"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:518
+msgid "Harlequin Boots"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:524
+msgid "Harlequin Gloves"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:509
+msgid "Harlequin Heavy Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:515
+msgid "Harlequin Jacket"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:503
+msgid "Harlequin Light Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:485
+msgid "Harlequin Mallet"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:512
+msgid "Harlequin Mask"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:521
+msgid "Harlequin Pants"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:488
+msgid "Harlequin Pistol"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:491
+msgid "Harlequin Rifle"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:494
+msgid "Harlequin Sniper"
+msgstr ""
 
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:94
 msgid "Headquarters"
@@ -5017,6 +5081,10 @@ msgstr "物品"
 msgid "j. Spam and repeated messages"
 msgstr "j. 洗版及重複的訊息"
 
+#: src/components/_other/shop/skin.frontConfig.tsx:497
+msgid "Jack-in-the-Box Tank"
+msgstr ""
+
 #: src/pages/companies.tsx:32
 #: src/pages/user/[userId]/companies.tsx:56
 msgid "Job"
@@ -5296,8 +5364,8 @@ msgstr "等級 {0} 獎勵"
 msgid "Level {level}"
 msgstr "等級 {level}"
 
-#: src/components/_political/election/Election.tsx:132
-#: src/components/_political/election/Election.tsx:224
+#: src/components/_political/election/Election.tsx:145
+#: src/components/_political/election/Election.tsx:237
 msgid "Level too low"
 msgstr "等級過低"
 
@@ -5702,7 +5770,7 @@ msgstr "傭兵名聲"
 msgid "Message"
 msgstr "訊息"
 
-#: src/components/_other/shop/SkinPackModal.tsx:236
+#: src/components/_other/shop/SkinPackModal.tsx:237
 msgid "Message (Optional)"
 msgstr "訊息 (選填)"
 
@@ -6125,7 +6193,7 @@ msgstr "永不放棄！"
 msgid "Never stop gambling"
 msgstr "不要停止賭博"
 
-#: src/components/_other/shop/SkinPackItem.tsx:92
+#: src/components/_other/shop/SkinPackItem.tsx:93
 #: src/components/_social/ArticleList.tsx:189
 msgid "New"
 msgstr "最新"
@@ -6780,7 +6848,7 @@ msgstr "已溢出："
 msgid "Overview"
 msgstr "總覽"
 
-#: src/components/_other/shop/SkinPackItem.tsx:107
+#: src/components/_other/shop/SkinPackItem.tsx:108
 msgid "Owned"
 msgstr "擁有的"
 
@@ -7537,11 +7605,15 @@ msgstr "原因"
 msgid "Recent Applications"
 msgstr "最近申請"
 
+#: src/components/_political/election/Election.tsx:247
+msgid "Recent citizenship change"
+msgstr ""
+
 #: src/pages/company/[companyId]/index.tsx:101
 msgid "Recipe"
 msgstr "配方"
 
-#: src/components/_other/shop/SkinPackModal.tsx:231
+#: src/components/_other/shop/SkinPackModal.tsx:232
 msgid "Recipient"
 msgstr "接收者"
 
@@ -8111,7 +8183,7 @@ msgstr "截圖這個，不然沒人會相信你"
 msgid "Search countries..."
 msgstr "搜尋國家..."
 
-#: src/components/_other/shop/SkinPackModal.tsx:233
+#: src/components/_other/shop/SkinPackModal.tsx:234
 msgid "Search recipient username..."
 msgstr "搜尋接收者用戶名稱..."
 
@@ -8232,7 +8304,7 @@ msgstr "傳送訊息以完成教學。歡迎來到這個社群！"
 msgid "Send Code"
 msgstr "傳送碼"
 
-#: src/components/_other/shop/SkinPackModal.tsx:284
+#: src/components/_other/shop/SkinPackModal.tsx:285
 msgid "Send Gift"
 msgstr "贈送禮物"
 
@@ -8391,6 +8463,10 @@ msgstr "顯示每周"
 msgid "Side"
 msgstr "邊"
 
+#: src/components/_other/shop/skinPack.frontConfig.tsx:65
+msgid "Silver not included"
+msgstr ""
+
 #: src/components/_military/tournament/TournamentHeader.tsx:103
 #: src/components/_military/tournament/TournamentRegistrationPanel.tsx:77
 msgid "Skill bonus"
@@ -8449,7 +8525,7 @@ msgstr "造型獎勵"
 msgid "Skins"
 msgstr "造型"
 
-#: src/components/_other/shop/SkinPackModal.tsx:249
+#: src/components/_other/shop/SkinPackModal.tsx:250
 msgid "Skins in this pack"
 msgstr "在這組合包中的造型"
 
@@ -8464,6 +8540,10 @@ msgstr "跳過教學"
 #: src/components/_layout/LayoutMapUserMenu.tsx:243
 msgid "Skipped"
 msgstr "已跳過"
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:57
+msgid "Sleeps all day, bites all night"
+msgstr ""
 
 #: src/components/_other/shop/skin.frontConfig.tsx:260
 msgid "Sling Stones"
@@ -8907,6 +8987,10 @@ msgstr "你的食用增益效果已結束，接下來將獲取減益效果，持
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:53
 msgid "The full bonus of <0/> applies up to <1/> share of global <2>Development</2>. Above that, the bonus drops by <3/> per percentage point of share over the plateau, down to <4/>."
 msgstr "<0/> 的完整紅利適用於全球 <2>發展度</2>的占比 <1/>。在此之上，超出高原期的每個百分點使紅利下降 <3/>，最低至 <4/>。"
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:69
+msgid "The joke's on you"
+msgstr ""
 
 #: src/components/_political/map/MapLibreErrorBoundary.tsx:69
 msgid "The map needs WebGL2, which your browser or device doesn't support. Everything else in the game works normally."
@@ -9423,13 +9507,13 @@ msgstr "未連接"
 msgid "Unlinked to capital"
 msgstr "未與首都連接"
 
-#: src/components/_other/shop/SkinPackModal.tsx:291
+#: src/components/_other/shop/SkinPackModal.tsx:292
 msgid "Unlock"
 msgstr "解鎖"
 
 #. placeholder {0}: estimate.notOwnedCount
 #. placeholder {1}: estimate.notOwnedCount > 1 ? 's' : ''
-#: src/components/_other/shop/SkinPackModal.tsx:286
+#: src/components/_other/shop/SkinPackModal.tsx:287
 msgid "Unlock {0} skin{1}"
 msgstr "解鎖 {0} 造型{1}"
 
@@ -9612,7 +9696,7 @@ msgstr "用戶"
 msgid "User & Progression"
 msgstr "玩家＆進展"
 
-#: src/components/_other/shop/SkinPackModal.tsx:267
+#: src/components/_other/shop/SkinPackModal.tsx:268
 msgid "User already owns all skins"
 msgstr "用戶已擁有所有造型"
 
@@ -9745,6 +9829,90 @@ msgstr "情人節坦克"
 #: src/components/_common/GameRules.tsx:143
 msgid "Valuable contributions will be recognized with the \"Bug Finder\" badge."
 msgstr "有價值的貢獻會被以\"漏洞發現者\"勳章表揚。"
+
+#: src/components/_other/shop/skin.frontConfig.tsx:479
+msgid "Vampire Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:64
+msgid "Vampire Arsenal"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:470
+msgid "Vampire Coffin"
+msgstr ""
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:56
+msgid "Vampire Count"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:434
+msgid "Vampire Count Boots"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:440
+msgid "Vampire Count Gloves"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:428
+msgid "Vampire Count Mask"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:437
+msgid "Vampire Count Pants"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:431
+msgid "Vampire Count Tailcoat"
+msgstr ""
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:60
+msgid "Vampire Countess"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:449
+msgid "Vampire Countess Boots"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:446
+msgid "Vampire Countess Corset"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:452
+msgid "Vampire Countess Garters"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:455
+msgid "Vampire Countess Gloves"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:443
+msgid "Vampire Countess Top Hat"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:464
+msgid "Vampire Crossbow"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:458
+msgid "Vampire Dagger"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:482
+msgid "Vampire Heavy Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:476
+msgid "Vampire Light Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:461
+msgid "Vampire Pistol"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:467
+msgid "Vampire Sniper"
+msgstr ""
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:56
 msgid "Vanguard"
@@ -10201,6 +10369,11 @@ msgstr "你可以在參選時填上宣傳文章連結"
 msgid "You can upgrade your skills!"
 msgstr "你可以升級技能了！"
 
+#. placeholder {0}: gameConfig?.election.voteMinDaysSinceCitizenshipChange
+#: src/components/_political/election/Election.tsx:249
+msgid "You can vote {0} days after changing citizenship. Available in <0/>."
+msgstr ""
+
 #: src/pages/country/[countryId]/citizenship.tsx:61
 msgid "You cannot apply for citizenship if you have a government/congress role"
 msgstr "若你已有政府/國會的職位，不能申請公民身分"
@@ -10311,7 +10484,7 @@ msgid "You left your job!"
 msgstr "你離職了！"
 
 #. placeholder {0}: gameConfig.election.candidateMinLevel
-#: src/components/_political/election/Election.tsx:133
+#: src/components/_political/election/Election.tsx:146
 msgid "You must be at least level {0} to become a candidate."
 msgstr "你必須至少為等級 {0} 以成為參選者。"
 
@@ -10323,7 +10496,7 @@ msgid "You must be at least level {0} to contribute."
 msgstr "你必須至少要等級 {0} 才能貢獻"
 
 #. placeholder {0}: gameConfig.election.voteMinLevel
-#: src/components/_political/election/Election.tsx:226
+#: src/components/_political/election/Election.tsx:239
 msgid "You must be at least level {0} to vote."
 msgstr "你必須至少等級 {0} 以投票。"
 

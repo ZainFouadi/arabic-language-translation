@@ -228,7 +228,7 @@ msgstr ""
 msgid "* A gear merging scheme consists of buying items with very low durability at a relatively high price, merging them, and then reselling the result at a low price."
 msgstr ""
 
-#: src/components/_other/shop/SkinPackModal.tsx:213
+#: src/components/_other/shop/SkinPackModal.tsx:214
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr "*Αν ο χρήστης κατέχει ήδη κάποια τεμάχια του σετ, η τιμή θα μειωθεί"
 
@@ -1540,7 +1540,7 @@ msgstr "Όλα τα Κόμματα"
 msgid "All rounds"
 msgstr ""
 
-#: src/components/_other/shop/SkinPackModal.tsx:269
+#: src/components/_other/shop/SkinPackModal.tsx:270
 msgid "All skins owned"
 msgstr "Όλα τα skins ανήκουν σε εσένα"
 
@@ -2100,6 +2100,10 @@ msgstr "Βασικό Κράνος"
 #: src/utils/translations.tsx:226
 msgid "Basic Pants"
 msgstr "Βασικό Παντελόνι"
+
+#: src/components/_other/shop/skin.frontConfig.tsx:473
+msgid "Bat Swarm"
+msgstr ""
 
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:85
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:185
@@ -3751,6 +3755,10 @@ msgstr ""
 msgid "Dragon"
 msgstr "Δράκος"
 
+#: src/components/_other/shop/skinPack.frontConfig.tsx:61
+msgid "Dressed to kill"
+msgstr ""
+
 #: src/components/_common/GameRules.tsx:262
 msgid "e. Content about ongoing real-world wars and armed conflicts (most notably the Russo-Ukrainian war and the Israeli–Palestinian conflict)"
 msgstr ""
@@ -4481,7 +4489,7 @@ msgstr "Το δώρο στάλθηκε! Ευχαριστούμε για την �
 msgid "Gift Supporter Plan"
 msgstr "Χάρισε το Πρόγραμμα Υποστηρικτή"
 
-#: src/components/_other/shop/SkinPackModal.tsx:224
+#: src/components/_other/shop/SkinPackModal.tsx:225
 msgid "Gift this pack to someone"
 msgstr "Χάρισε αυτό το πακέτο σε κάποιον"
 
@@ -4724,6 +4732,62 @@ msgstr ""
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:85
 msgid "Hard Worker"
 msgstr "Σκληρά εργαζόμενος"
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:68
+msgid "Harlequin"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:506
+msgid "Harlequin Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:500
+msgid "Harlequin Biplane"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:518
+msgid "Harlequin Boots"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:524
+msgid "Harlequin Gloves"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:509
+msgid "Harlequin Heavy Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:515
+msgid "Harlequin Jacket"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:503
+msgid "Harlequin Light Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:485
+msgid "Harlequin Mallet"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:512
+msgid "Harlequin Mask"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:521
+msgid "Harlequin Pants"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:488
+msgid "Harlequin Pistol"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:491
+msgid "Harlequin Rifle"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:494
+msgid "Harlequin Sniper"
+msgstr ""
 
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:94
 msgid "Headquarters"
@@ -5017,6 +5081,10 @@ msgstr ""
 msgid "j. Spam and repeated messages"
 msgstr ""
 
+#: src/components/_other/shop/skin.frontConfig.tsx:497
+msgid "Jack-in-the-Box Tank"
+msgstr ""
+
 #: src/pages/companies.tsx:32
 #: src/pages/user/[userId]/companies.tsx:56
 msgid "Job"
@@ -5296,8 +5364,8 @@ msgstr ""
 msgid "Level {level}"
 msgstr ""
 
-#: src/components/_political/election/Election.tsx:132
-#: src/components/_political/election/Election.tsx:224
+#: src/components/_political/election/Election.tsx:145
+#: src/components/_political/election/Election.tsx:237
 msgid "Level too low"
 msgstr ""
 
@@ -5702,7 +5770,7 @@ msgstr ""
 msgid "Message"
 msgstr ""
 
-#: src/components/_other/shop/SkinPackModal.tsx:236
+#: src/components/_other/shop/SkinPackModal.tsx:237
 msgid "Message (Optional)"
 msgstr "Μήνυμα (Προαιρετικό)"
 
@@ -6125,7 +6193,7 @@ msgstr "Ποτέ μην τα παρατάς!"
 msgid "Never stop gambling"
 msgstr "Ποτέ μην σταματάς το τζόγο"
 
-#: src/components/_other/shop/SkinPackItem.tsx:92
+#: src/components/_other/shop/SkinPackItem.tsx:93
 #: src/components/_social/ArticleList.tsx:189
 msgid "New"
 msgstr "Νέο"
@@ -6780,7 +6848,7 @@ msgstr ""
 msgid "Overview"
 msgstr "Επισκόπηση"
 
-#: src/components/_other/shop/SkinPackItem.tsx:107
+#: src/components/_other/shop/SkinPackItem.tsx:108
 msgid "Owned"
 msgstr "Κατέχεται"
 
@@ -7537,11 +7605,15 @@ msgstr "Αιτία"
 msgid "Recent Applications"
 msgstr "Πρόσφατες Αιτήσεις"
 
+#: src/components/_political/election/Election.tsx:247
+msgid "Recent citizenship change"
+msgstr ""
+
 #: src/pages/company/[companyId]/index.tsx:101
 msgid "Recipe"
 msgstr "Συνταγή"
 
-#: src/components/_other/shop/SkinPackModal.tsx:231
+#: src/components/_other/shop/SkinPackModal.tsx:232
 msgid "Recipient"
 msgstr "Παραλήπτης"
 
@@ -8111,7 +8183,7 @@ msgstr "Βγάλε screenshot αλλιώς κανείς δεν θα σε πισ�
 msgid "Search countries..."
 msgstr "Αναζήτηση χωρών..."
 
-#: src/components/_other/shop/SkinPackModal.tsx:233
+#: src/components/_other/shop/SkinPackModal.tsx:234
 msgid "Search recipient username..."
 msgstr "Αναζήτηση ονόματος παραλήπτη..."
 
@@ -8232,7 +8304,7 @@ msgstr "Στείλε μήνυμα για να ολοκληρώσεις το σε
 msgid "Send Code"
 msgstr "Αποστολή Κωδικού"
 
-#: src/components/_other/shop/SkinPackModal.tsx:284
+#: src/components/_other/shop/SkinPackModal.tsx:285
 msgid "Send Gift"
 msgstr "Αποστολή Δώρου"
 
@@ -8391,6 +8463,10 @@ msgstr ""
 msgid "Side"
 msgstr ""
 
+#: src/components/_other/shop/skinPack.frontConfig.tsx:65
+msgid "Silver not included"
+msgstr ""
+
 #: src/components/_military/tournament/TournamentHeader.tsx:103
 #: src/components/_military/tournament/TournamentRegistrationPanel.tsx:77
 msgid "Skill bonus"
@@ -8449,7 +8525,7 @@ msgstr ""
 msgid "Skins"
 msgstr "Skins"
 
-#: src/components/_other/shop/SkinPackModal.tsx:249
+#: src/components/_other/shop/SkinPackModal.tsx:250
 msgid "Skins in this pack"
 msgstr "Skins σε αυτό το πακέτο"
 
@@ -8463,6 +8539,10 @@ msgstr "Παράλειψη Σεμιναρίου"
 
 #: src/components/_layout/LayoutMapUserMenu.tsx:243
 msgid "Skipped"
+msgstr ""
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:57
+msgid "Sleeps all day, bites all night"
 msgstr ""
 
 #: src/components/_other/shop/skin.frontConfig.tsx:260
@@ -8906,6 +8986,10 @@ msgstr "Το αποτέλεσμα των buffs που κατανάλωσες τ�
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:53
 msgid "The full bonus of <0/> applies up to <1/> share of global <2>Development</2>. Above that, the bonus drops by <3/> per percentage point of share over the plateau, down to <4/>."
+msgstr ""
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:69
+msgid "The joke's on you"
 msgstr ""
 
 #: src/components/_political/map/MapLibreErrorBoundary.tsx:69
@@ -9423,13 +9507,13 @@ msgstr "Μη συνδεδεμένο"
 msgid "Unlinked to capital"
 msgstr "Μη συνδεδεμένο με πρωτεύουσα"
 
-#: src/components/_other/shop/SkinPackModal.tsx:291
+#: src/components/_other/shop/SkinPackModal.tsx:292
 msgid "Unlock"
 msgstr "Ξεκλείδωμα"
 
 #. placeholder {0}: estimate.notOwnedCount
 #. placeholder {1}: estimate.notOwnedCount > 1 ? 's' : ''
-#: src/components/_other/shop/SkinPackModal.tsx:286
+#: src/components/_other/shop/SkinPackModal.tsx:287
 msgid "Unlock {0} skin{1}"
 msgstr "Ξεκλείδωμα {0} skin{1}"
 
@@ -9612,7 +9696,7 @@ msgstr "χρήστης"
 msgid "User & Progression"
 msgstr ""
 
-#: src/components/_other/shop/SkinPackModal.tsx:267
+#: src/components/_other/shop/SkinPackModal.tsx:268
 msgid "User already owns all skins"
 msgstr "Ο χρήστης κατέχει ήδη όλα τα skins"
 
@@ -9744,6 +9828,90 @@ msgstr "Valentine Άρμα Μάχης"
 
 #: src/components/_common/GameRules.tsx:143
 msgid "Valuable contributions will be recognized with the \"Bug Finder\" badge."
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:479
+msgid "Vampire Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:64
+msgid "Vampire Arsenal"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:470
+msgid "Vampire Coffin"
+msgstr ""
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:56
+msgid "Vampire Count"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:434
+msgid "Vampire Count Boots"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:440
+msgid "Vampire Count Gloves"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:428
+msgid "Vampire Count Mask"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:437
+msgid "Vampire Count Pants"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:431
+msgid "Vampire Count Tailcoat"
+msgstr ""
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:60
+msgid "Vampire Countess"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:449
+msgid "Vampire Countess Boots"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:446
+msgid "Vampire Countess Corset"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:452
+msgid "Vampire Countess Garters"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:455
+msgid "Vampire Countess Gloves"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:443
+msgid "Vampire Countess Top Hat"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:464
+msgid "Vampire Crossbow"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:458
+msgid "Vampire Dagger"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:482
+msgid "Vampire Heavy Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:476
+msgid "Vampire Light Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:461
+msgid "Vampire Pistol"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:467
+msgid "Vampire Sniper"
 msgstr ""
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:56
@@ -10201,6 +10369,11 @@ msgstr "Μπορείς προαιρετικά να συνδέσεις άρθρο
 msgid "You can upgrade your skills!"
 msgstr "Μπορείς να αναβαθμίσεις τις ικανότητές σου!"
 
+#. placeholder {0}: gameConfig?.election.voteMinDaysSinceCitizenshipChange
+#: src/components/_political/election/Election.tsx:249
+msgid "You can vote {0} days after changing citizenship. Available in <0/>."
+msgstr ""
+
 #: src/pages/country/[countryId]/citizenship.tsx:61
 msgid "You cannot apply for citizenship if you have a government/congress role"
 msgstr "Δεν μπορείς να υποβάλεις αίτηση υπηκοότητας αν έχεις ρόλο κυβέρνησης/Κοινοβουλίου"
@@ -10311,7 +10484,7 @@ msgid "You left your job!"
 msgstr "Αποχώρησες από τη δουλειά!"
 
 #. placeholder {0}: gameConfig.election.candidateMinLevel
-#: src/components/_political/election/Election.tsx:133
+#: src/components/_political/election/Election.tsx:146
 msgid "You must be at least level {0} to become a candidate."
 msgstr ""
 
@@ -10323,7 +10496,7 @@ msgid "You must be at least level {0} to contribute."
 msgstr "Πρέπει να είσαι τουλάχιστον επίπεδο {0} για να συνεισφέρεις."
 
 #. placeholder {0}: gameConfig.election.voteMinLevel
-#: src/components/_political/election/Election.tsx:226
+#: src/components/_political/election/Election.tsx:239
 msgid "You must be at least level {0} to vote."
 msgstr ""
 

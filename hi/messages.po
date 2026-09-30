@@ -228,7 +228,7 @@ msgstr ""
 msgid "* A gear merging scheme consists of buying items with very low durability at a relatively high price, merging them, and then reselling the result at a low price."
 msgstr "* उपकरण विलय योजना में बहुत कम टिकाऊपन वाले सामानों को अपेक्षाकृत ऊँची कीमत पर खरीदना, उन्हें मिलाना (विलय करना), और फिर प्राप्त वस्तु को कम कीमत पर पुनः बेचना शामिल होता है।"
 
-#: src/components/_other/shop/SkinPackModal.tsx:213
+#: src/components/_other/shop/SkinPackModal.tsx:214
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr "*यदि उपयोगकर्ता के पास पहले से ही इस सेट के कुछ हिस्से हैं, तो कीमत कम कर दी जाएगी।"
 
@@ -1540,7 +1540,7 @@ msgstr "सभी दल"
 msgid "All rounds"
 msgstr "सभी राउंड"
 
-#: src/components/_other/shop/SkinPackModal.tsx:269
+#: src/components/_other/shop/SkinPackModal.tsx:270
 msgid "All skins owned"
 msgstr "सभी स्किन्स उपलब्ध हैं"
 
@@ -2100,6 +2100,10 @@ msgstr "बुनियादी हेलमेट"
 #: src/utils/translations.tsx:226
 msgid "Basic Pants"
 msgstr "बुनियादी पैंट"
+
+#: src/components/_other/shop/skin.frontConfig.tsx:473
+msgid "Bat Swarm"
+msgstr ""
 
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:85
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:185
@@ -3751,6 +3755,10 @@ msgstr ""
 msgid "Dragon"
 msgstr "ड्रैगन"
 
+#: src/components/_other/shop/skinPack.frontConfig.tsx:61
+msgid "Dressed to kill"
+msgstr ""
+
 #: src/components/_common/GameRules.tsx:262
 msgid "e. Content about ongoing real-world wars and armed conflicts (most notably the Russo-Ukrainian war and the Israeli–Palestinian conflict)"
 msgstr "e. वास्तविक दुनिया के चल रहे युद्धों और सशस्त्र संघर्षों से संबंधित सामग्री (विशेष रूप से रूस-यूक्रेन युद्ध और इज़राइल-फ़िलिस्तीन संघर्ष)"
@@ -4481,7 +4489,7 @@ msgstr "उपहार भेज दिया गया! गेम का स�
 msgid "Gift Supporter Plan"
 msgstr "समर्थक योजना उपहार में दें"
 
-#: src/components/_other/shop/SkinPackModal.tsx:224
+#: src/components/_other/shop/SkinPackModal.tsx:225
 msgid "Gift this pack to someone"
 msgstr "यह पैक किसी को उपहार में दें"
 
@@ -4724,6 +4732,62 @@ msgstr "हैम्स्टर टैंक"
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:85
 msgid "Hard Worker"
 msgstr "मेहनती कार्यकर्ता"
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:68
+msgid "Harlequin"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:506
+msgid "Harlequin Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:500
+msgid "Harlequin Biplane"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:518
+msgid "Harlequin Boots"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:524
+msgid "Harlequin Gloves"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:509
+msgid "Harlequin Heavy Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:515
+msgid "Harlequin Jacket"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:503
+msgid "Harlequin Light Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:485
+msgid "Harlequin Mallet"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:512
+msgid "Harlequin Mask"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:521
+msgid "Harlequin Pants"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:488
+msgid "Harlequin Pistol"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:491
+msgid "Harlequin Rifle"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:494
+msgid "Harlequin Sniper"
+msgstr ""
 
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:94
 msgid "Headquarters"
@@ -5017,6 +5081,10 @@ msgstr "वस्तुएँ"
 msgid "j. Spam and repeated messages"
 msgstr "j. स्पैम और बार-बार दोहराए गए संदेश"
 
+#: src/components/_other/shop/skin.frontConfig.tsx:497
+msgid "Jack-in-the-Box Tank"
+msgstr ""
+
 #: src/pages/companies.tsx:32
 #: src/pages/user/[userId]/companies.tsx:56
 msgid "Job"
@@ -5296,8 +5364,8 @@ msgstr ""
 msgid "Level {level}"
 msgstr "स्तर {level}"
 
-#: src/components/_political/election/Election.tsx:132
-#: src/components/_political/election/Election.tsx:224
+#: src/components/_political/election/Election.tsx:145
+#: src/components/_political/election/Election.tsx:237
 msgid "Level too low"
 msgstr ""
 
@@ -5702,7 +5770,7 @@ msgstr "भाड़े के सैनिकों की प्रतिष�
 msgid "Message"
 msgstr ""
 
-#: src/components/_other/shop/SkinPackModal.tsx:236
+#: src/components/_other/shop/SkinPackModal.tsx:237
 msgid "Message (Optional)"
 msgstr "संदेश (वैकल्पिक)"
 
@@ -6125,7 +6193,7 @@ msgstr "कभी हार मत मानो!"
 msgid "Never stop gambling"
 msgstr "जुआ खेलना कभी मत छोड़ो"
 
-#: src/components/_other/shop/SkinPackItem.tsx:92
+#: src/components/_other/shop/SkinPackItem.tsx:93
 #: src/components/_social/ArticleList.tsx:189
 msgid "New"
 msgstr "नया"
@@ -6780,7 +6848,7 @@ msgstr "अधिशेष:"
 msgid "Overview"
 msgstr "अवलोकन"
 
-#: src/components/_other/shop/SkinPackItem.tsx:107
+#: src/components/_other/shop/SkinPackItem.tsx:108
 msgid "Owned"
 msgstr "स्वामित्व में"
 
@@ -7537,11 +7605,15 @@ msgstr "कारण"
 msgid "Recent Applications"
 msgstr "हाल की आवेदनियाँ"
 
+#: src/components/_political/election/Election.tsx:247
+msgid "Recent citizenship change"
+msgstr ""
+
 #: src/pages/company/[companyId]/index.tsx:101
 msgid "Recipe"
 msgstr "रेसिपी"
 
-#: src/components/_other/shop/SkinPackModal.tsx:231
+#: src/components/_other/shop/SkinPackModal.tsx:232
 msgid "Recipient"
 msgstr "प्राप्तकर्ता"
 
@@ -8111,7 +8183,7 @@ msgstr "इसका स्क्रीनशॉट लो, नहीं तो 
 msgid "Search countries..."
 msgstr "देश खोजें..."
 
-#: src/components/_other/shop/SkinPackModal.tsx:233
+#: src/components/_other/shop/SkinPackModal.tsx:234
 msgid "Search recipient username..."
 msgstr "प्राप्तकर्ता का उपयोगकर्ता नाम खोजें..."
 
@@ -8232,7 +8304,7 @@ msgstr "ट्यूटोरियल पूरा करने के लि�
 msgid "Send Code"
 msgstr "कोड भेजें"
 
-#: src/components/_other/shop/SkinPackModal.tsx:284
+#: src/components/_other/shop/SkinPackModal.tsx:285
 msgid "Send Gift"
 msgstr "उपहार भेजें"
 
@@ -8391,6 +8463,10 @@ msgstr "साप्ताहिक दिखाया जा रहा है"
 msgid "Side"
 msgstr "पक्ष"
 
+#: src/components/_other/shop/skinPack.frontConfig.tsx:65
+msgid "Silver not included"
+msgstr ""
+
 #: src/components/_military/tournament/TournamentHeader.tsx:103
 #: src/components/_military/tournament/TournamentRegistrationPanel.tsx:77
 msgid "Skill bonus"
@@ -8449,7 +8525,7 @@ msgstr "स्किन पुरस्कार"
 msgid "Skins"
 msgstr "स्किन्स"
 
-#: src/components/_other/shop/SkinPackModal.tsx:249
+#: src/components/_other/shop/SkinPackModal.tsx:250
 msgid "Skins in this pack"
 msgstr "इस पैक की स्किन्स"
 
@@ -8463,6 +8539,10 @@ msgstr "ट्यूटोरियल छोड़ें"
 
 #: src/components/_layout/LayoutMapUserMenu.tsx:243
 msgid "Skipped"
+msgstr ""
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:57
+msgid "Sleeps all day, bites all night"
 msgstr ""
 
 #: src/components/_other/shop/skin.frontConfig.tsx:260
@@ -8906,6 +8986,10 @@ msgstr "आपके उपयोग किए गए बफ का प्रभ
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:53
 msgid "The full bonus of <0/> applies up to <1/> share of global <2>Development</2>. Above that, the bonus drops by <3/> per percentage point of share over the plateau, down to <4/>."
+msgstr ""
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:69
+msgid "The joke's on you"
 msgstr ""
 
 #: src/components/_political/map/MapLibreErrorBoundary.tsx:69
@@ -9423,13 +9507,13 @@ msgstr "असंबद्ध"
 msgid "Unlinked to capital"
 msgstr "राजधानी से असंबद्ध"
 
-#: src/components/_other/shop/SkinPackModal.tsx:291
+#: src/components/_other/shop/SkinPackModal.tsx:292
 msgid "Unlock"
 msgstr "अनलॉक करें"
 
 #. placeholder {0}: estimate.notOwnedCount
 #. placeholder {1}: estimate.notOwnedCount > 1 ? 's' : ''
-#: src/components/_other/shop/SkinPackModal.tsx:286
+#: src/components/_other/shop/SkinPackModal.tsx:287
 msgid "Unlock {0} skin{1}"
 msgstr "{0} स्किन{1} अनलॉक करें"
 
@@ -9612,7 +9696,7 @@ msgstr "उपयोगकर्ता"
 msgid "User & Progression"
 msgstr "उपयोगकर्ता और प्रगति"
 
-#: src/components/_other/shop/SkinPackModal.tsx:267
+#: src/components/_other/shop/SkinPackModal.tsx:268
 msgid "User already owns all skins"
 msgstr "उपयोगकर्ता के पास पहले से सभी स्किन हैं"
 
@@ -9745,6 +9829,90 @@ msgstr "वैलेंटाइन टैंक"
 #: src/components/_common/GameRules.tsx:143
 msgid "Valuable contributions will be recognized with the \"Bug Finder\" badge."
 msgstr "मूल्यवान योगदानों को \"बग फाइंडर\" बैज से सम्मानित किया जाएगा।"
+
+#: src/components/_other/shop/skin.frontConfig.tsx:479
+msgid "Vampire Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:64
+msgid "Vampire Arsenal"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:470
+msgid "Vampire Coffin"
+msgstr ""
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:56
+msgid "Vampire Count"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:434
+msgid "Vampire Count Boots"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:440
+msgid "Vampire Count Gloves"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:428
+msgid "Vampire Count Mask"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:437
+msgid "Vampire Count Pants"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:431
+msgid "Vampire Count Tailcoat"
+msgstr ""
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:60
+msgid "Vampire Countess"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:449
+msgid "Vampire Countess Boots"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:446
+msgid "Vampire Countess Corset"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:452
+msgid "Vampire Countess Garters"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:455
+msgid "Vampire Countess Gloves"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:443
+msgid "Vampire Countess Top Hat"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:464
+msgid "Vampire Crossbow"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:458
+msgid "Vampire Dagger"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:482
+msgid "Vampire Heavy Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:476
+msgid "Vampire Light Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:461
+msgid "Vampire Pistol"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:467
+msgid "Vampire Sniper"
+msgstr ""
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:56
 msgid "Vanguard"
@@ -10201,6 +10369,11 @@ msgstr "आप चाहें तो अपनी उम्मीदवार�
 msgid "You can upgrade your skills!"
 msgstr "आप अपनी कौशलों को उन्नत कर सकते हैं!"
 
+#. placeholder {0}: gameConfig?.election.voteMinDaysSinceCitizenshipChange
+#: src/components/_political/election/Election.tsx:249
+msgid "You can vote {0} days after changing citizenship. Available in <0/>."
+msgstr ""
+
 #: src/pages/country/[countryId]/citizenship.tsx:61
 msgid "You cannot apply for citizenship if you have a government/congress role"
 msgstr "यदि आपके पास सरकार या कांग्रेस में कोई पद है, तो आप नागरिकता के लिए आवेदन नहीं कर सकते।"
@@ -10311,7 +10484,7 @@ msgid "You left your job!"
 msgstr "आपने अपनी नौकरी छोड़ दी!"
 
 #. placeholder {0}: gameConfig.election.candidateMinLevel
-#: src/components/_political/election/Election.tsx:133
+#: src/components/_political/election/Election.tsx:146
 msgid "You must be at least level {0} to become a candidate."
 msgstr ""
 
@@ -10323,7 +10496,7 @@ msgid "You must be at least level {0} to contribute."
 msgstr "योगदान देने के लिए आपका स्तर कम से कम {0} होना चाहिए।"
 
 #. placeholder {0}: gameConfig.election.voteMinLevel
-#: src/components/_political/election/Election.tsx:226
+#: src/components/_political/election/Election.tsx:239
 msgid "You must be at least level {0} to vote."
 msgstr ""
 

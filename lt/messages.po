@@ -228,7 +228,7 @@ msgstr "{value} km"
 msgid "* A gear merging scheme consists of buying items with very low durability at a relatively high price, merging them, and then reselling the result at a low price."
 msgstr "* Įrangos jungimo schema – tai labai mažo patvarumo įrangos pirkimas už santykinai didelę kainą, jos sujungimas ir gautos įrangos pardavimas už mažą kainą."
 
-#: src/components/_other/shop/SkinPackModal.tsx:213
+#: src/components/_other/shop/SkinPackModal.tsx:214
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr "*Jei vartotojas jau turi dalį šio rinkinio dalių, kaina bus sumažinta"
 
@@ -1540,7 +1540,7 @@ msgstr "Visos Partijos"
 msgid "All rounds"
 msgstr "Visi raundai"
 
-#: src/components/_other/shop/SkinPackModal.tsx:269
+#: src/components/_other/shop/SkinPackModal.tsx:270
 msgid "All skins owned"
 msgstr "Turi visus skinus"
 
@@ -2100,6 +2100,10 @@ msgstr "Paprastas Šalmas"
 #: src/utils/translations.tsx:226
 msgid "Basic Pants"
 msgstr "Paprastos Kelnės"
+
+#: src/components/_other/shop/skin.frontConfig.tsx:473
+msgid "Bat Swarm"
+msgstr ""
 
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:85
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:185
@@ -3751,6 +3755,10 @@ msgstr "Nutempk įsakymus, kad pakeistum jų prioriteto numerį."
 msgid "Dragon"
 msgstr "Drakonas"
 
+#: src/components/_other/shop/skinPack.frontConfig.tsx:61
+msgid "Dressed to kill"
+msgstr ""
+
 #: src/components/_common/GameRules.tsx:262
 msgid "e. Content about ongoing real-world wars and armed conflicts (most notably the Russo-Ukrainian war and the Israeli–Palestinian conflict)"
 msgstr "e. Turinys apie vykstančius realaus pasaulio karus ir ginkluotus konfliktus (ypač Rusijos ir Ukrainos karą bei Izraelio ir Palestinos konfliktą)"
@@ -4481,7 +4489,7 @@ msgstr "Dovana išsiųsta! Ačiū, kad palaikote žaidimą <3"
 msgid "Gift Supporter Plan"
 msgstr "Padovanoti Rėmėjo Planą"
 
-#: src/components/_other/shop/SkinPackModal.tsx:224
+#: src/components/_other/shop/SkinPackModal.tsx:225
 msgid "Gift this pack to someone"
 msgstr "Padovanok šį rinkinį kam nors"
 
@@ -4724,6 +4732,62 @@ msgstr "Žiurkėno Tankas"
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:85
 msgid "Hard Worker"
 msgstr "Darbštuolis"
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:68
+msgid "Harlequin"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:506
+msgid "Harlequin Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:500
+msgid "Harlequin Biplane"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:518
+msgid "Harlequin Boots"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:524
+msgid "Harlequin Gloves"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:509
+msgid "Harlequin Heavy Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:515
+msgid "Harlequin Jacket"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:503
+msgid "Harlequin Light Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:485
+msgid "Harlequin Mallet"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:512
+msgid "Harlequin Mask"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:521
+msgid "Harlequin Pants"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:488
+msgid "Harlequin Pistol"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:491
+msgid "Harlequin Rifle"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:494
+msgid "Harlequin Sniper"
+msgstr ""
 
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:94
 msgid "Headquarters"
@@ -5017,6 +5081,10 @@ msgstr "Daiktai"
 msgid "j. Spam and repeated messages"
 msgstr "j. Šlamštas (spam) ir pasikartojančios žinutės"
 
+#: src/components/_other/shop/skin.frontConfig.tsx:497
+msgid "Jack-in-the-Box Tank"
+msgstr ""
+
 #: src/pages/companies.tsx:32
 #: src/pages/user/[userId]/companies.tsx:56
 msgid "Job"
@@ -5296,8 +5364,8 @@ msgstr "{0} lygio apdovanojimas"
 msgid "Level {level}"
 msgstr "Lygis {level}"
 
-#: src/components/_political/election/Election.tsx:132
-#: src/components/_political/election/Election.tsx:224
+#: src/components/_political/election/Election.tsx:145
+#: src/components/_political/election/Election.tsx:237
 msgid "Level too low"
 msgstr "Per žemas lygis"
 
@@ -5702,7 +5770,7 @@ msgstr "Samdinio Reputacija"
 msgid "Message"
 msgstr "Žinutė"
 
-#: src/components/_other/shop/SkinPackModal.tsx:236
+#: src/components/_other/shop/SkinPackModal.tsx:237
 msgid "Message (Optional)"
 msgstr "Žinutė (Nebūtina)"
 
@@ -6125,7 +6193,7 @@ msgstr "Niekada nepasiduok!"
 msgid "Never stop gambling"
 msgstr "Niekada nenustok lošti"
 
-#: src/components/_other/shop/SkinPackItem.tsx:92
+#: src/components/_other/shop/SkinPackItem.tsx:93
 #: src/components/_social/ArticleList.tsx:189
 msgid "New"
 msgstr "Nauja"
@@ -6780,7 +6848,7 @@ msgstr "Perteklius:"
 msgid "Overview"
 msgstr "Apžvalga"
 
-#: src/components/_other/shop/SkinPackItem.tsx:107
+#: src/components/_other/shop/SkinPackItem.tsx:108
 msgid "Owned"
 msgstr "Turima"
 
@@ -7537,11 +7605,15 @@ msgstr "Priežastis"
 msgid "Recent Applications"
 msgstr "Naujausios Paraiškos"
 
+#: src/components/_political/election/Election.tsx:247
+msgid "Recent citizenship change"
+msgstr ""
+
 #: src/pages/company/[companyId]/index.tsx:101
 msgid "Recipe"
 msgstr "Receptas"
 
-#: src/components/_other/shop/SkinPackModal.tsx:231
+#: src/components/_other/shop/SkinPackModal.tsx:232
 msgid "Recipient"
 msgstr "Gavėjas"
 
@@ -8111,7 +8183,7 @@ msgstr "Pasidaryk screenshotą, kitaip niekas nepatikės"
 msgid "Search countries..."
 msgstr "Ieškoti šalių..."
 
-#: src/components/_other/shop/SkinPackModal.tsx:233
+#: src/components/_other/shop/SkinPackModal.tsx:234
 msgid "Search recipient username..."
 msgstr "Ieškok gavėjo vartotojo vardo..."
 
@@ -8232,7 +8304,7 @@ msgstr "Norėdamas užbaigti mokymą, išsiųsk žinutę. Sveikas prisijungęs p
 msgid "Send Code"
 msgstr "Siųsti Kodą"
 
-#: src/components/_other/shop/SkinPackModal.tsx:284
+#: src/components/_other/shop/SkinPackModal.tsx:285
 msgid "Send Gift"
 msgstr "Siųsti Dovaną"
 
@@ -8391,6 +8463,10 @@ msgstr "Rodoma kas savaitę"
 msgid "Side"
 msgstr "Pusė"
 
+#: src/components/_other/shop/skinPack.frontConfig.tsx:65
+msgid "Silver not included"
+msgstr ""
+
 #: src/components/_military/tournament/TournamentHeader.tsx:103
 #: src/components/_military/tournament/TournamentRegistrationPanel.tsx:77
 msgid "Skill bonus"
@@ -8449,7 +8525,7 @@ msgstr "Skino Apdovanojimas"
 msgid "Skins"
 msgstr "Skinai"
 
-#: src/components/_other/shop/SkinPackModal.tsx:249
+#: src/components/_other/shop/SkinPackModal.tsx:250
 msgid "Skins in this pack"
 msgstr "Šio rinkinio skinai"
 
@@ -8464,6 +8540,10 @@ msgstr "Praleisti Pamoką"
 #: src/components/_layout/LayoutMapUserMenu.tsx:243
 msgid "Skipped"
 msgstr "Praleista"
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:57
+msgid "Sleeps all day, bites all night"
+msgstr ""
 
 #: src/components/_other/shop/skin.frontConfig.tsx:260
 msgid "Sling Stones"
@@ -8907,6 +8987,10 @@ msgstr "Suvartotų Buff'ų poveikis baigėsi. Prasidėjo Debuff'o fazė, kuri tr
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:53
 msgid "The full bonus of <0/> applies up to <1/> share of global <2>Development</2>. Above that, the bonus drops by <3/> per percentage point of share over the plateau, down to <4/>."
 msgstr "Visas <0/> bonusas taikomas iki <1/> dalies pasaulinio <2>išsivystymo</2>. Viršijus šią ribą, bonusas mažėja po <3/> už kiekvieną dalies procentinį punktą virš ribos, kol nukrenta iki <4/>."
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:69
+msgid "The joke's on you"
+msgstr ""
 
 #: src/components/_political/map/MapLibreErrorBoundary.tsx:69
 msgid "The map needs WebGL2, which your browser or device doesn't support. Everything else in the game works normally."
@@ -9423,13 +9507,13 @@ msgstr "Nesusieta"
 msgid "Unlinked to capital"
 msgstr "Neprijungta prie sostinės"
 
-#: src/components/_other/shop/SkinPackModal.tsx:291
+#: src/components/_other/shop/SkinPackModal.tsx:292
 msgid "Unlock"
 msgstr "Atrakinti"
 
 #. placeholder {0}: estimate.notOwnedCount
 #. placeholder {1}: estimate.notOwnedCount > 1 ? 's' : ''
-#: src/components/_other/shop/SkinPackModal.tsx:286
+#: src/components/_other/shop/SkinPackModal.tsx:287
 msgid "Unlock {0} skin{1}"
 msgstr "Atrakinti {0} skin{1}"
 
@@ -9612,7 +9696,7 @@ msgstr "vartotojas"
 msgid "User & Progression"
 msgstr "Vartotojas ir Progresas"
 
-#: src/components/_other/shop/SkinPackModal.tsx:267
+#: src/components/_other/shop/SkinPackModal.tsx:268
 msgid "User already owns all skins"
 msgstr "Naudotojas jau turi visus skinus"
 
@@ -9745,6 +9829,90 @@ msgstr "Valentine Tankas"
 #: src/components/_common/GameRules.tsx:143
 msgid "Valuable contributions will be recognized with the \"Bug Finder\" badge."
 msgstr "Vertingas indėlis bus įvertintas \"Klaidų ieškotojo\" (Bug Finder) ženkleliu."
+
+#: src/components/_other/shop/skin.frontConfig.tsx:479
+msgid "Vampire Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:64
+msgid "Vampire Arsenal"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:470
+msgid "Vampire Coffin"
+msgstr ""
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:56
+msgid "Vampire Count"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:434
+msgid "Vampire Count Boots"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:440
+msgid "Vampire Count Gloves"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:428
+msgid "Vampire Count Mask"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:437
+msgid "Vampire Count Pants"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:431
+msgid "Vampire Count Tailcoat"
+msgstr ""
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:60
+msgid "Vampire Countess"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:449
+msgid "Vampire Countess Boots"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:446
+msgid "Vampire Countess Corset"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:452
+msgid "Vampire Countess Garters"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:455
+msgid "Vampire Countess Gloves"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:443
+msgid "Vampire Countess Top Hat"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:464
+msgid "Vampire Crossbow"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:458
+msgid "Vampire Dagger"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:482
+msgid "Vampire Heavy Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:476
+msgid "Vampire Light Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:461
+msgid "Vampire Pistol"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:467
+msgid "Vampire Sniper"
+msgstr ""
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:56
 msgid "Vanguard"
@@ -10201,6 +10369,11 @@ msgstr "Prie savo kandidatūros gali susieti rinkimų kampanijos straipsnį."
 msgid "You can upgrade your skills!"
 msgstr "Gali patobulinti savo įgūdžius!"
 
+#. placeholder {0}: gameConfig?.election.voteMinDaysSinceCitizenshipChange
+#: src/components/_political/election/Election.tsx:249
+msgid "You can vote {0} days after changing citizenship. Available in <0/>."
+msgstr ""
+
 #: src/pages/country/[countryId]/citizenship.tsx:61
 msgid "You cannot apply for citizenship if you have a government/congress role"
 msgstr "Negali prašyti pilietybės, jei eini pareigas vyriausybėje arba kongrese"
@@ -10311,7 +10484,7 @@ msgid "You left your job!"
 msgstr "Išėjai iš darbo!"
 
 #. placeholder {0}: gameConfig.election.candidateMinLevel
-#: src/components/_political/election/Election.tsx:133
+#: src/components/_political/election/Election.tsx:146
 msgid "You must be at least level {0} to become a candidate."
 msgstr "Turi būti bent {0} lygio, kad taptum kandidatu."
 
@@ -10323,7 +10496,7 @@ msgid "You must be at least level {0} to contribute."
 msgstr "Kad galėtum prisidėti, turi būti bent {0} lygio."
 
 #. placeholder {0}: gameConfig.election.voteMinLevel
-#: src/components/_political/election/Election.tsx:226
+#: src/components/_political/election/Election.tsx:239
 msgid "You must be at least level {0} to vote."
 msgstr "Turi būti bent {0} lygio, kad galėtum balsuoti."
 
