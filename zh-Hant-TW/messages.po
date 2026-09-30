@@ -4392,7 +4392,7 @@ msgstr "於地圖上找到。打開以獲得隨機資源"
 msgid "Founding Father"
 msgstr "國父"
 
-#: src/pages/shop/index.tsx:131
+#: src/pages/shop/index.tsx:180
 msgid "Free daily reward"
 msgstr "免費每日獎勵"
 
@@ -4432,11 +4432,11 @@ msgstr "透過完成你的任務來獲得<0>Xp</0>！"
 msgid "Game supporter"
 msgstr "遊戲支持者"
 
-#: src/pages/shop/index.tsx:141
+#: src/pages/shop/index.tsx:189
 msgid "Gems"
 msgstr "寶石"
 
-#: src/pages/shop/index.tsx:138
+#: src/pages/shop/index.tsx:187
 msgid "Gems are used to buy assets in the shop and to gift supporter months to other players"
 msgstr "寶石是用來在商店中購買資產，以及贈送支持者給其他玩家"
 
@@ -4481,7 +4481,7 @@ msgstr "來自 Vatou 的禮物，別告訴任何人"
 msgid "Gift sent! Skin pack unlocked for recipient!"
 msgstr "禮物已送出！造型包已為接收者解鎖！"
 
-#: src/pages/shop/index.tsx:57
+#: src/pages/shop/index.tsx:60
 msgid "Gift sent! Thanks for supporting the game <3"
 msgstr "禮物已送出！謝謝你支持這個遊戲 <3"
 
@@ -4493,7 +4493,8 @@ msgstr "贈送支持者計畫"
 msgid "Gift this pack to someone"
 msgstr "贈送這個組合包給某人"
 
-#: src/pages/shop/index.tsx:103
+#: src/pages/shop/index.tsx:108
+#: src/pages/shop/index.tsx:134
 msgid "gifted"
 msgstr "已贈送"
 
@@ -5231,9 +5232,13 @@ msgstr "最近連線"
 msgid "Last earned: <0/>"
 msgstr "最近賺取：<0/>"
 
-#: src/pages/shop/index.tsx:91
+#: src/pages/shop/index.tsx:96
 msgid "Last gifts"
 msgstr "最近的禮物"
+
+#: src/pages/shop/index.tsx:122
+msgid "Last skin gifts"
+msgstr ""
 
 #: src/components/_user/auth/ConnectFromModal.tsx:339
 #: src/components/_user/auth/ConnectFromModal.tsx:358
@@ -5249,7 +5254,7 @@ msgstr "最近使用："
 msgid "Later"
 msgstr "晚點"
 
-#: src/pages/shop/index.tsx:155
+#: src/pages/shop/index.tsx:202
 msgid "Latest Pack"
 msgstr "最新的組合包"
 
@@ -6294,7 +6299,7 @@ msgstr "新推薦人"
 msgid "New subscriber"
 msgstr "新訂閱者"
 
-#: src/pages/shop/index.tsx:114
+#: src/pages/shop/index.tsx:161
 msgid "New supporters"
 msgstr "新支持者們"
 
@@ -7008,7 +7013,7 @@ msgstr "貼上一個連結至你的宣傳文章或留空。"
 msgid "Paused"
 msgstr "暫停"
 
-#: src/pages/shop/index.tsx:45
+#: src/pages/shop/index.tsx:48
 msgid "Payment successful! Thanks for supporting the game <3"
 msgstr "付款成功！謝謝支持遊戲 <3"
 
@@ -7147,7 +7152,7 @@ msgstr "精準"
 msgid "Prehistoric Pack"
 msgstr "史前組合"
 
-#: src/pages/shop/index.tsx:171
+#: src/pages/shop/index.tsx:219
 msgid "Premium"
 msgstr "高級帳號"
 
@@ -8520,7 +8525,7 @@ msgid "Skin Reward"
 msgstr "造型獎勵"
 
 #: src/components/_other/shop/ShopHeader.tsx:23
-#: src/pages/shop/index.tsx:145
+#: src/pages/shop/index.tsx:195
 #: src/pages/user/[userId]/index.tsx:101
 msgid "Skins"
 msgstr "造型"
@@ -9212,6 +9217,10 @@ msgstr "給 <0/> 文章小費"
 msgid "Tip Article"
 msgstr "給文章小費"
 
+#: src/pages/shop/index.tsx:147
+msgid "to"
+msgstr ""
+
 #: src/components/_user/apiToken/ApiTokenList.tsx:246
 msgid "Token Name"
 msgstr "Token 名稱"
@@ -9274,7 +9283,7 @@ msgstr "捐獻榜首"
 msgid "Top eligible offer:"
 msgstr "最好的薪資："
 
-#: src/pages/shop/index.tsx:87
+#: src/pages/shop/index.tsx:90
 msgid "Top gift givers of the month"
 msgstr "本月送禮數最多者"
 

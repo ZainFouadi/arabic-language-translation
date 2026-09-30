@@ -4392,7 +4392,7 @@ msgstr ""
 msgid "Founding Father"
 msgstr "Kurucu Baba"
 
-#: src/pages/shop/index.tsx:131
+#: src/pages/shop/index.tsx:180
 msgid "Free daily reward"
 msgstr "Ücretsiz günlük ödül"
 
@@ -4432,11 +4432,11 @@ msgstr "Görevlerini tamamlayarak <0>XP</0> kazan!"
 msgid "Game supporter"
 msgstr "Oyun Destekçisi"
 
-#: src/pages/shop/index.tsx:141
+#: src/pages/shop/index.tsx:189
 msgid "Gems"
 msgstr "Mücevherler"
 
-#: src/pages/shop/index.tsx:138
+#: src/pages/shop/index.tsx:187
 msgid "Gems are used to buy assets in the shop and to gift supporter months to other players"
 msgstr "Mücevherler mağazadan varlık almak ve diğer oyunculara destekçi ayları hediye etmek için kullanılır"
 
@@ -4481,7 +4481,7 @@ msgstr "Vatou'dan hediye, kimseye söyleme"
 msgid "Gift sent! Skin pack unlocked for recipient!"
 msgstr "Hediye gönderildi! Kostüm paketi alıcı için açıldı!"
 
-#: src/pages/shop/index.tsx:57
+#: src/pages/shop/index.tsx:60
 msgid "Gift sent! Thanks for supporting the game <3"
 msgstr "Hediye gönderildi! Oyunu desteklediğin için teşekkürler <3"
 
@@ -4493,7 +4493,8 @@ msgstr "Destekçi Planı Hediye Et"
 msgid "Gift this pack to someone"
 msgstr "Bu paketi birine hediye et"
 
-#: src/pages/shop/index.tsx:103
+#: src/pages/shop/index.tsx:108
+#: src/pages/shop/index.tsx:134
 msgid "gifted"
 msgstr "hediye edildi"
 
@@ -5231,9 +5232,13 @@ msgstr ""
 msgid "Last earned: <0/>"
 msgstr "Son kazanılan: <0/>"
 
-#: src/pages/shop/index.tsx:91
+#: src/pages/shop/index.tsx:96
 msgid "Last gifts"
 msgstr "Verilen son hediyeler"
+
+#: src/pages/shop/index.tsx:122
+msgid "Last skin gifts"
+msgstr ""
 
 #: src/components/_user/auth/ConnectFromModal.tsx:339
 #: src/components/_user/auth/ConnectFromModal.tsx:358
@@ -5249,7 +5254,7 @@ msgstr "Son kullanım:"
 msgid "Later"
 msgstr "Daha Sonra"
 
-#: src/pages/shop/index.tsx:155
+#: src/pages/shop/index.tsx:202
 msgid "Latest Pack"
 msgstr "En Yeni Paket"
 
@@ -6294,7 +6299,7 @@ msgstr "Yeni davetçi"
 msgid "New subscriber"
 msgstr "Yeni abone"
 
-#: src/pages/shop/index.tsx:114
+#: src/pages/shop/index.tsx:161
 msgid "New supporters"
 msgstr "Yeni destekçiler"
 
@@ -7008,7 +7013,7 @@ msgstr "Kampanya makalenize bir link yapıştırın veya boş bırakın."
 msgid "Paused"
 msgstr ""
 
-#: src/pages/shop/index.tsx:45
+#: src/pages/shop/index.tsx:48
 msgid "Payment successful! Thanks for supporting the game <3"
 msgstr "Ödeme başarılı! Oyunu desteklediğin için teşekkürler <3"
 
@@ -7147,7 +7152,7 @@ msgstr "Hassasiyet"
 msgid "Prehistoric Pack"
 msgstr "Tarih Öncesi Paketi"
 
-#: src/pages/shop/index.tsx:171
+#: src/pages/shop/index.tsx:219
 msgid "Premium"
 msgstr "Premium"
 
@@ -8520,7 +8525,7 @@ msgid "Skin Reward"
 msgstr "Görünüm Ödülü"
 
 #: src/components/_other/shop/ShopHeader.tsx:23
-#: src/pages/shop/index.tsx:145
+#: src/pages/shop/index.tsx:195
 #: src/pages/user/[userId]/index.tsx:101
 msgid "Skins"
 msgstr "Görünümler"
@@ -9212,6 +9217,10 @@ msgstr ""
 msgid "Tip Article"
 msgstr "Makaleye Bahşiş Ver"
 
+#: src/pages/shop/index.tsx:147
+msgid "to"
+msgstr ""
+
 #: src/components/_user/apiToken/ApiTokenList.tsx:246
 msgid "Token Name"
 msgstr "Token Adı"
@@ -9274,7 +9283,7 @@ msgstr "En Çok Bağış Yapanlar"
 msgid "Top eligible offer:"
 msgstr "En iyi uygun teklif:"
 
-#: src/pages/shop/index.tsx:87
+#: src/pages/shop/index.tsx:90
 msgid "Top gift givers of the month"
 msgstr "Ayın en iyi hediye verenleri"
 

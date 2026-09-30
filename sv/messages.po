@@ -4392,7 +4392,7 @@ msgstr ""
 msgid "Founding Father"
 msgstr "Landsfader"
 
-#: src/pages/shop/index.tsx:131
+#: src/pages/shop/index.tsx:180
 msgid "Free daily reward"
 msgstr "Daglig gratisbelöning"
 
@@ -4432,11 +4432,11 @@ msgstr "Erhåll <0>XP</0> genom att slutföra dina uppdrag!"
 msgid "Game supporter"
 msgstr "Supporter"
 
-#: src/pages/shop/index.tsx:141
+#: src/pages/shop/index.tsx:189
 msgid "Gems"
 msgstr "Kristaller"
 
-#: src/pages/shop/index.tsx:138
+#: src/pages/shop/index.tsx:187
 msgid "Gems are used to buy assets in the shop and to gift supporter months to other players"
 msgstr "Kristaller används för att köpa tillgångar i butiken och för att skänka supporter-månader till andra spelare"
 
@@ -4481,7 +4481,7 @@ msgstr "Gåva från Vatou, berätta inte för någon"
 msgid "Gift sent! Skin pack unlocked for recipient!"
 msgstr "Gåva skickad! Utseendepaketet har låsts upp för mottagaren!"
 
-#: src/pages/shop/index.tsx:57
+#: src/pages/shop/index.tsx:60
 msgid "Gift sent! Thanks for supporting the game <3"
 msgstr "Gåva skickad! Tack för att du stöttar spelet <3"
 
@@ -4493,7 +4493,8 @@ msgstr "Skänk supporter-medlemskap"
 msgid "Gift this pack to someone"
 msgstr "Skänk detta paket till någon"
 
-#: src/pages/shop/index.tsx:103
+#: src/pages/shop/index.tsx:108
+#: src/pages/shop/index.tsx:134
 msgid "gifted"
 msgstr "skänkt"
 
@@ -5231,9 +5232,13 @@ msgstr ""
 msgid "Last earned: <0/>"
 msgstr "Senast erhållen: <0/>"
 
-#: src/pages/shop/index.tsx:91
+#: src/pages/shop/index.tsx:96
 msgid "Last gifts"
 msgstr "Senaste gåvorna"
+
+#: src/pages/shop/index.tsx:122
+msgid "Last skin gifts"
+msgstr ""
 
 #: src/components/_user/auth/ConnectFromModal.tsx:339
 #: src/components/_user/auth/ConnectFromModal.tsx:358
@@ -5249,7 +5254,7 @@ msgstr "Senast använd:"
 msgid "Later"
 msgstr "Senare"
 
-#: src/pages/shop/index.tsx:155
+#: src/pages/shop/index.tsx:202
 msgid "Latest Pack"
 msgstr "Senaste paketet"
 
@@ -6294,7 +6299,7 @@ msgstr "Ny värvare"
 msgid "New subscriber"
 msgstr "Ny prenumerant"
 
-#: src/pages/shop/index.tsx:114
+#: src/pages/shop/index.tsx:161
 msgid "New supporters"
 msgstr "Nya supporters"
 
@@ -7008,7 +7013,7 @@ msgstr "Klistra in en länk till din kampanjartikel eller lämna tomt."
 msgid "Paused"
 msgstr ""
 
-#: src/pages/shop/index.tsx:45
+#: src/pages/shop/index.tsx:48
 msgid "Payment successful! Thanks for supporting the game <3"
 msgstr "Betalningen genomförd! Tack för att du stöttar spelet <3"
 
@@ -7147,7 +7152,7 @@ msgstr "Precision"
 msgid "Prehistoric Pack"
 msgstr ""
 
-#: src/pages/shop/index.tsx:171
+#: src/pages/shop/index.tsx:219
 msgid "Premium"
 msgstr "Premium"
 
@@ -8520,7 +8525,7 @@ msgid "Skin Reward"
 msgstr "Utseendebelöning"
 
 #: src/components/_other/shop/ShopHeader.tsx:23
-#: src/pages/shop/index.tsx:145
+#: src/pages/shop/index.tsx:195
 #: src/pages/user/[userId]/index.tsx:101
 msgid "Skins"
 msgstr "Utseenden"
@@ -9212,6 +9217,10 @@ msgstr ""
 msgid "Tip Article"
 msgstr "Ge dricks för artikel"
 
+#: src/pages/shop/index.tsx:147
+msgid "to"
+msgstr ""
+
 #: src/components/_user/apiToken/ApiTokenList.tsx:246
 msgid "Token Name"
 msgstr "Token-namn"
@@ -9274,7 +9283,7 @@ msgstr "Främsta donatorer"
 msgid "Top eligible offer:"
 msgstr "Bästa kvalificerade erbjudande:"
 
-#: src/pages/shop/index.tsx:87
+#: src/pages/shop/index.tsx:90
 msgid "Top gift givers of the month"
 msgstr "Månadens främsta givare"
 

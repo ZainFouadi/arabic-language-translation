@@ -4392,7 +4392,7 @@ msgstr "Знайдено на мапі. Відкрийте, щоб отрима�
 msgid "Founding Father"
 msgstr "Батько-засновник"
 
-#: src/pages/shop/index.tsx:131
+#: src/pages/shop/index.tsx:180
 msgid "Free daily reward"
 msgstr "Дармова щоденна нагорода"
 
@@ -4432,11 +4432,11 @@ msgstr "Отримуй <0>XP</0> виконуючи місії!"
 msgid "Game supporter"
 msgstr "Підтримувач гри"
 
-#: src/pages/shop/index.tsx:141
+#: src/pages/shop/index.tsx:189
 msgid "Gems"
 msgstr "Самоцвіти"
 
-#: src/pages/shop/index.tsx:138
+#: src/pages/shop/index.tsx:187
 msgid "Gems are used to buy assets in the shop and to gift supporter months to other players"
 msgstr "Самоцвіти використовуються для купівлі у магазині та дарування підписок іншим гравцям"
 
@@ -4481,7 +4481,7 @@ msgstr "Подарунок від Vatou, нікому не кажи"
 msgid "Gift sent! Skin pack unlocked for recipient!"
 msgstr "Подарунок надіслано! Набір скінів розблоковано для одержувача!"
 
-#: src/pages/shop/index.tsx:57
+#: src/pages/shop/index.tsx:60
 msgid "Gift sent! Thanks for supporting the game <3"
 msgstr "Подарунок відправлено! Дякуємо за підтримку гри <3"
 
@@ -4493,7 +4493,8 @@ msgstr "Подарувати підписку"
 msgid "Gift this pack to someone"
 msgstr "Подарувати комусь цей набір"
 
-#: src/pages/shop/index.tsx:103
+#: src/pages/shop/index.tsx:108
+#: src/pages/shop/index.tsx:134
 msgid "gifted"
 msgstr "зробив подарунок"
 
@@ -5231,9 +5232,13 @@ msgstr "Востаннє в мережі"
 msgid "Last earned: <0/>"
 msgstr "Востаннє отримано: <0/>"
 
-#: src/pages/shop/index.tsx:91
+#: src/pages/shop/index.tsx:96
 msgid "Last gifts"
 msgstr "Останні подарунки"
+
+#: src/pages/shop/index.tsx:122
+msgid "Last skin gifts"
+msgstr ""
 
 #: src/components/_user/auth/ConnectFromModal.tsx:339
 #: src/components/_user/auth/ConnectFromModal.tsx:358
@@ -5249,7 +5254,7 @@ msgstr "Останнє використання:"
 msgid "Later"
 msgstr "Пізніше"
 
-#: src/pages/shop/index.tsx:155
+#: src/pages/shop/index.tsx:202
 msgid "Latest Pack"
 msgstr "Останній набір"
 
@@ -6294,7 +6299,7 @@ msgstr "Новий залучальник"
 msgid "New subscriber"
 msgstr "Новий підписник"
 
-#: src/pages/shop/index.tsx:114
+#: src/pages/shop/index.tsx:161
 msgid "New supporters"
 msgstr "Нові підписники"
 
@@ -7008,7 +7013,7 @@ msgstr "Вставте посилання на статтю з вашою про
 msgid "Paused"
 msgstr "Призупинено"
 
-#: src/pages/shop/index.tsx:45
+#: src/pages/shop/index.tsx:48
 msgid "Payment successful! Thanks for supporting the game <3"
 msgstr "Успішна оплата! Дякую за підтримку гри <3"
 
@@ -7147,7 +7152,7 @@ msgstr "Влучність"
 msgid "Prehistoric Pack"
 msgstr "Доісторичний набір"
 
-#: src/pages/shop/index.tsx:171
+#: src/pages/shop/index.tsx:219
 msgid "Premium"
 msgstr "Преміум"
 
@@ -8520,7 +8525,7 @@ msgid "Skin Reward"
 msgstr "Нагорода скіном"
 
 #: src/components/_other/shop/ShopHeader.tsx:23
-#: src/pages/shop/index.tsx:145
+#: src/pages/shop/index.tsx:195
 #: src/pages/user/[userId]/index.tsx:101
 msgid "Skins"
 msgstr "Скіни"
@@ -9212,6 +9217,10 @@ msgstr "Залиште чайові <0/> статтям"
 msgid "Tip Article"
 msgstr "Залишити чайові"
 
+#: src/pages/shop/index.tsx:147
+msgid "to"
+msgstr ""
+
 #: src/components/_user/apiToken/ApiTokenList.tsx:246
 msgid "Token Name"
 msgstr "Назва токену"
@@ -9274,7 +9283,7 @@ msgstr "Найбільші донори"
 msgid "Top eligible offer:"
 msgstr "Найкраща пропозиція:"
 
-#: src/pages/shop/index.tsx:87
+#: src/pages/shop/index.tsx:90
 msgid "Top gift givers of the month"
 msgstr "Найбільші дарувальники цього місяця"
 

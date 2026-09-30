@@ -4392,7 +4392,7 @@ msgstr "Pronađena u dalekim krajevima svijeta. Otvorite je i otkrijte nasumičn
 msgid "Founding Father"
 msgstr "Praotac"
 
-#: src/pages/shop/index.tsx:131
+#: src/pages/shop/index.tsx:180
 msgid "Free daily reward"
 msgstr "Besplatna dnevna nagrada"
 
@@ -4432,11 +4432,11 @@ msgstr "<0>XP</0> Steknite rješavanjem misija!"
 msgid "Game supporter"
 msgstr "Pokrovitelj Igre"
 
-#: src/pages/shop/index.tsx:141
+#: src/pages/shop/index.tsx:189
 msgid "Gems"
 msgstr "Gemovi"
 
-#: src/pages/shop/index.tsx:138
+#: src/pages/shop/index.tsx:187
 msgid "Gems are used to buy assets in the shop and to gift supporter months to other players"
 msgstr "Gemovi se koriste za kupnju u trgovini i za darovanje Supportera drugim igračima"
 
@@ -4481,7 +4481,7 @@ msgstr "Poklon od Vatoua, nemoj reći nikome!"
 msgid "Gift sent! Skin pack unlocked for recipient!"
 msgstr "Poklon poslan! Skin paket je otključen za primatelja!"
 
-#: src/pages/shop/index.tsx:57
+#: src/pages/shop/index.tsx:60
 msgid "Gift sent! Thanks for supporting the game <3"
 msgstr "Poklon poslan! Hvala što podržavate igru."
 
@@ -4493,7 +4493,8 @@ msgstr "Pokloni Supporter pretplatu"
 msgid "Gift this pack to someone"
 msgstr "Poklonite ovaj paket nekome"
 
-#: src/pages/shop/index.tsx:103
+#: src/pages/shop/index.tsx:108
+#: src/pages/shop/index.tsx:134
 msgid "gifted"
 msgstr "poklanja"
 
@@ -5231,9 +5232,13 @@ msgstr "Zadnje viđen/a"
 msgid "Last earned: <0/>"
 msgstr "Zadnja značka: <0/>"
 
-#: src/pages/shop/index.tsx:91
+#: src/pages/shop/index.tsx:96
 msgid "Last gifts"
 msgstr "Zadnji pokloni"
+
+#: src/pages/shop/index.tsx:122
+msgid "Last skin gifts"
+msgstr ""
 
 #: src/components/_user/auth/ConnectFromModal.tsx:339
 #: src/components/_user/auth/ConnectFromModal.tsx:358
@@ -5249,7 +5254,7 @@ msgstr "Zadnje korišteno:"
 msgid "Later"
 msgstr "Kasnije"
 
-#: src/pages/shop/index.tsx:155
+#: src/pages/shop/index.tsx:202
 msgid "Latest Pack"
 msgstr "Najnoviji Paket"
 
@@ -6294,7 +6299,7 @@ msgstr "Novi preporučitelj"
 msgid "New subscriber"
 msgstr "Novi pretplatnik"
 
-#: src/pages/shop/index.tsx:114
+#: src/pages/shop/index.tsx:161
 msgid "New supporters"
 msgstr "Novi supporteri"
 
@@ -7008,7 +7013,7 @@ msgstr "Zaljepite vezu do članka vaše kampanje ili ostavite prazno."
 msgid "Paused"
 msgstr "Pauzirano"
 
-#: src/pages/shop/index.tsx:45
+#: src/pages/shop/index.tsx:48
 msgid "Payment successful! Thanks for supporting the game <3"
 msgstr "Plaćanje uspješno! Hvala što podržavate igru."
 
@@ -7147,7 +7152,7 @@ msgstr "Preciznost"
 msgid "Prehistoric Pack"
 msgstr "Prapovijesni Paket"
 
-#: src/pages/shop/index.tsx:171
+#: src/pages/shop/index.tsx:219
 msgid "Premium"
 msgstr "Premium"
 
@@ -8520,7 +8525,7 @@ msgid "Skin Reward"
 msgstr "Skin nagrada"
 
 #: src/components/_other/shop/ShopHeader.tsx:23
-#: src/pages/shop/index.tsx:145
+#: src/pages/shop/index.tsx:195
 #: src/pages/user/[userId]/index.tsx:101
 msgid "Skins"
 msgstr "Skinovi"
@@ -9212,6 +9217,10 @@ msgstr "Daj napojnicu <0/> članaka"
 msgid "Tip Article"
 msgstr "Daj napojnicu za članak"
 
+#: src/pages/shop/index.tsx:147
+msgid "to"
+msgstr ""
+
 #: src/components/_user/apiToken/ApiTokenList.tsx:246
 msgid "Token Name"
 msgstr "Naziv Tokena"
@@ -9274,7 +9283,7 @@ msgstr "Top Donatori"
 msgid "Top eligible offer:"
 msgstr "Najbolja prihvatljiva ponuda:"
 
-#: src/pages/shop/index.tsx:87
+#: src/pages/shop/index.tsx:90
 msgid "Top gift givers of the month"
 msgstr "Najveći darivatelji mjeseca"
 

@@ -4392,7 +4392,7 @@ msgstr "Encontrado no mapa. Abre-o para obteres recursos aleatórios"
 msgid "Founding Father"
 msgstr "Fundador da Nação"
 
-#: src/pages/shop/index.tsx:131
+#: src/pages/shop/index.tsx:180
 msgid "Free daily reward"
 msgstr "Recompensa diária grátis"
 
@@ -4432,11 +4432,11 @@ msgstr "Ganha <0>Xp</0> ao concluíres as tuas missões!"
 msgid "Game supporter"
 msgstr "Apoiante"
 
-#: src/pages/shop/index.tsx:141
+#: src/pages/shop/index.tsx:189
 msgid "Gems"
 msgstr "Gemas"
 
-#: src/pages/shop/index.tsx:138
+#: src/pages/shop/index.tsx:187
 msgid "Gems are used to buy assets in the shop and to gift supporter months to other players"
 msgstr "Gemas são usadas para comprar itens na loja e oferecer subscrições a outros jogadores"
 
@@ -4481,7 +4481,7 @@ msgstr "Presente do Vatou, não conta pra ninguém"
 msgid "Gift sent! Skin pack unlocked for recipient!"
 msgstr "Presente enviado! Pack de skin desbloqueado pelo destinatário!"
 
-#: src/pages/shop/index.tsx:57
+#: src/pages/shop/index.tsx:60
 msgid "Gift sent! Thanks for supporting the game <3"
 msgstr "Presente enviado! Obrigado por apoiar o jogo <3"
 
@@ -4493,7 +4493,8 @@ msgstr "Oferecer uma subscrição"
 msgid "Gift this pack to someone"
 msgstr "Ofereça este conjunto a alguém"
 
-#: src/pages/shop/index.tsx:103
+#: src/pages/shop/index.tsx:108
+#: src/pages/shop/index.tsx:134
 msgid "gifted"
 msgstr "ofereceu a"
 
@@ -5231,9 +5232,13 @@ msgstr "Última vez online há"
 msgid "Last earned: <0/>"
 msgstr "Obtido pela última vez: <0/>"
 
-#: src/pages/shop/index.tsx:91
+#: src/pages/shop/index.tsx:96
 msgid "Last gifts"
 msgstr "Últimas ofertas"
+
+#: src/pages/shop/index.tsx:122
+msgid "Last skin gifts"
+msgstr ""
 
 #: src/components/_user/auth/ConnectFromModal.tsx:339
 #: src/components/_user/auth/ConnectFromModal.tsx:358
@@ -5249,7 +5254,7 @@ msgstr "Usado pela última vez:"
 msgid "Later"
 msgstr "Depois"
 
-#: src/pages/shop/index.tsx:155
+#: src/pages/shop/index.tsx:202
 msgid "Latest Pack"
 msgstr "Último Pack"
 
@@ -6294,7 +6299,7 @@ msgstr "Novo indicador"
 msgid "New subscriber"
 msgstr "Novo inscrito"
 
-#: src/pages/shop/index.tsx:114
+#: src/pages/shop/index.tsx:161
 msgid "New supporters"
 msgstr "Novos apoiantes"
 
@@ -7008,7 +7013,7 @@ msgstr "Cola um link para o teu artigo de campanha, ou deixa em branco."
 msgid "Paused"
 msgstr "Em pausa"
 
-#: src/pages/shop/index.tsx:45
+#: src/pages/shop/index.tsx:48
 msgid "Payment successful! Thanks for supporting the game <3"
 msgstr "Pagamento bem-sucedido! Obrigado por apoiar o jogo <3"
 
@@ -7147,7 +7152,7 @@ msgstr "Precisão"
 msgid "Prehistoric Pack"
 msgstr "Pack Pré-Histórico"
 
-#: src/pages/shop/index.tsx:171
+#: src/pages/shop/index.tsx:219
 msgid "Premium"
 msgstr "Premium"
 
@@ -8520,7 +8525,7 @@ msgid "Skin Reward"
 msgstr "Oferta de skin"
 
 #: src/components/_other/shop/ShopHeader.tsx:23
-#: src/pages/shop/index.tsx:145
+#: src/pages/shop/index.tsx:195
 #: src/pages/user/[userId]/index.tsx:101
 msgid "Skins"
 msgstr "Skins"
@@ -9212,6 +9217,10 @@ msgstr "Dá gorjeta a <0/> artigos"
 msgid "Tip Article"
 msgstr "Dar gorjeta em artigo"
 
+#: src/pages/shop/index.tsx:147
+msgid "to"
+msgstr ""
+
 #: src/components/_user/apiToken/ApiTokenList.tsx:246
 msgid "Token Name"
 msgstr "Nome do Token"
@@ -9274,7 +9283,7 @@ msgstr "Principais doadores"
 msgid "Top eligible offer:"
 msgstr "Melhor oferta disponível:"
 
-#: src/pages/shop/index.tsx:87
+#: src/pages/shop/index.tsx:90
 msgid "Top gift givers of the month"
 msgstr "Top ofertas do mês"
 
