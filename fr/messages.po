@@ -189,7 +189,7 @@ msgstr "{rareCount, plural, one {# d'entre eux est de rareté rare ou supérieur
 #: src/components/_layout/LayoutMapUserMenu.tsx:167
 #: src/components/_political/map/MapMenu.tsx:605
 msgid "{regionsAway, plural, one {# region away} other {# regions away}}"
-msgstr "{regionsAway, plural, one {# région plus loin} other {# régions plus lointaines}}"
+msgstr "{regionsAway, plural, one {# région de distance} other {# régions de distance}}"
 
 #: src/pages/events/index.tsx:97
 msgid "{registeredCount} countries registered"
@@ -969,7 +969,7 @@ msgstr "1★ Spécialiste"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:17
 msgid "1★ Trainee"
-msgstr "1★ Élève militaire"
+msgstr "1★ Élève"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:37
 msgid "1★ Trooper"
@@ -1093,7 +1093,7 @@ msgstr "2★ Spécialiste"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:18
 msgid "2★ Trainee"
-msgstr "2★ Élève militaire"
+msgstr "2★ Élève"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:38
 msgid "2★ Trooper"
@@ -1213,7 +1213,7 @@ msgstr "3★ Spécialiste"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:19
 msgid "3★ Trainee"
-msgstr "3★ Élève militaire"
+msgstr "3★ Élève"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:39
 msgid "3★ Trooper"
@@ -2017,7 +2017,7 @@ msgstr "Baby Boomer"
 
 #: src/components/_layout/LayoutMapUserMenu.tsx:191
 msgid "Back to home region"
-msgstr "Retour aux régions d'origine"
+msgstr "Revenir à la maison"
 
 #: src/components/_layout/LayoutOptions.tsx:175
 msgid "Background pattern"
@@ -7068,7 +7068,7 @@ msgstr "Population (actuellement présente)"
 #: src/components/_social/announcement/AnnouncementFormModal.tsx:21
 #: src/components/_social/announcement/AnnouncementList.tsx:48
 msgid "Post announcement"
-msgstr "Annonce de publication"
+msgstr "Publier une annonce"
 
 #: src/components/_user/user/skills.frontConfig.tsx:144
 #: src/components/_user/user/skills.frontConfig.tsx:145
@@ -7920,7 +7920,7 @@ msgstr "Résistance"
 
 #: src/components/_political/contribution/ContributionList.tsx:198
 msgid "Resistance Contributors"
-msgstr "Contributeurs de la résistance"
+msgstr "Contributeurs à la résistance"
 
 #: src/components/_political/region/ResistanceFocusItem.tsx:244
 msgid "Resistance focus"
@@ -9363,7 +9363,7 @@ msgstr "Trébuchet"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:36
 msgid "Trooper"
-msgstr "Cavalier"
+msgstr "Soldat de 1ère classe"
 
 #: src/pages/user/[userId]/settings.tsx:123
 msgid "Tutorials"
@@ -10647,7 +10647,7 @@ msgstr "Ta chance se réchauffe, n'abandonne pas"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:24
 msgid "Your luck is on vacation"
-msgstr "Ta chance est en vacances"
+msgstr "Ta chance est partie en vacances"
 
 #: src/components/_military/mu/MuFormModal.tsx:106
 msgid "Your military unit name"
